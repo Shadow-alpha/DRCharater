@@ -1,0 +1,3610 @@
+{
+  "supported": [
+    {
+      "id": 49,
+      "knowledge": "Loid's codename 'Twilight' symbolizes his elusive identity and ability to assume many roles, reflecting the ambiguity of his true self.",
+      "evaluation": "supported",
+      "evidence": "The text refers to his 'hidden identity' and ability to maintain multiple personas, aligning with the symbolic meaning of 'Twilight'.",
+      "name": "Loid Forger (Spy x Family)",
+      "type": "other",
+      "human": "supported"
+    },
+    {
+      "id": 24,
+      "knowledge": "He fears forming close relationships and believes his only value lies in his fighting strength, leading to deep-seated insecurity outside of combat.",
+      "evaluation": "supported",
+      "evidence": "The text explains he fights to earn respect and that his journey involves overcoming isolation and learning to accept belonging.",
+      "name": "Haruka Sakura (WIND BREAKER)",
+      "type": "personality",
+      "human": "supported"
+    },
+    {
+      "id": 8,
+      "knowledge": "Conan uses Professor Agasa's power-enhancing kick shoes to compensate for his child-sized strength, allowing him to deliver strong, precise kicks during confrontations.",
+      "evaluation": "supported",
+      "evidence": "The text lists the 'Power-Enhancing Kick Shoes' as one of Agasa's gadgets that grant him 'incredible kicking power, capable of stopping a moving car.'",
+      "name": "Conan Edogawa (Case Closed)",
+      "type": "ability",
+      "human": "supported"
+    },
+    {
+      "id": 23,
+      "knowledge": "She is emotionally invested in her relationship and actively seeks to reassure and comfort Tatsumi.",
+      "evaluation": "supported",
+      "evidence": "The text notes she attempts to distract Tatsumi from grief and confesses her love to him, showing emotional investment.",
+      "name": "Mine (Akame ga Kill!)",
+      "type": "personality",
+      "human": "supported"
+    },
+    {
+      "id": 22,
+      "knowledge": "She is extremely ambitious and willing to commit murder or betray others to achieve her goals, valuing her dream above all else.",
+      "evaluation": "supported",
+      "evidence": "The text states her dream is the driving force behind all her actions and that she committed murder to achieve it.",
+      "name": "Celestia Ludenberg (Danganronpa: The Animation)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "He resents popular people for possessing what he lacks and for what he perceives as their emotional exploitation of him.",
+      "evaluation": "supported",
+      "evidence": "The text describes his scorn for the 'normie' social life and notes Hayato Hayama resents Hachiman, implying mutual tension rooted in social disparity.",
+      "name": "Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "She is remarkably forgiving and refuses to hold grudges, even toward those who repeatedly mistreat her.",
+      "evaluation": "supported",
+      "evidence": "The text notes her continued interactions with Raphiel and the dog despite being mistreated, showing her forgiving nature.",
+      "name": "Satanichia Kurumizawa McDowell (Gabriel DropOut)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She shares a close friendship with Uiharu Kazari, forged during their Judgment training, though they occasionally clash over differences in judgment and risk assessment.",
+      "evaluation": "supported",
+      "evidence": "The text describes Uiharu as a close friend and colleague in Judgment, noting their mutual support and occasional clashes due to Kuroko's recklessness and Uiharu's caution.",
+      "name": "Kuroko Shirai (A Certain Scientific Railgun)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "He is a master swordsman, capable of fighting at the highest level despite physical disadvantages.",
+      "evaluation": "supported",
+      "evidence": "He is described as one of the most powerful Hashira and continued fighting effectively while blinded.",
+      "name": "Obanai Iguro (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Chrome is a member of Ishigami Village and a core member of the Kingdom of Science.",
+      "evaluation": "supported",
+      "evidence": "The text states Chrome is a 'descendant of the Ishigami Village community' and Senku's 'most trusted scientific partner,' calling him a 'pillar' of the Kingdom of Science's advancement.",
+      "name": "Chrome (Dr. STONE)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 20,
+      "knowledge": "His rare Marechi blood is highly intoxicating to demons, disrupting their focus and movement.",
+      "evaluation": "supported",
+      "evidence": "The text confirms his rare blood is intoxicating to demons and causes them to lose focus.",
+      "name": "Sanemi Shinazugawa (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "He is Emilia's self-proclaimed knight and a knight of the Kingdom of Lugunica.",
+      "evaluation": "supported",
+      "evidence": "He becomes her official knight after confronting his flaws and maturing in their relationship.",
+      "name": "Subaru Natsuki (Re:ZERO -Starting Life in Another World-)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "He has a complex and evolving relationship with Inspector Lunge, who initially suspects him of being delusional or dangerous but later comes to believe in Johan's existence.",
+      "evaluation": "supported",
+      "evidence": "The text describes Lunge initially pursuing Tenma as a murderer but later accepting Johan’s existence and becoming an ally.",
+      "name": "Kenzou Tenma (Monster)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Ai Haibara is a former member of the Black Organization who shares a deep mutual trust with Conan, as they both survived the APTX-4869 drug and work together to uncover the organization's secrets.",
+      "evaluation": "supported",
+      "evidence": "The text confirms Haibara was a scientist for the Black Organization, took APTX-4869, and is Conan's 'closest confidante' and ally in uncovering the organization.",
+      "name": "Conan Edogawa (Case Closed)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "Kana Arima performed in the stage play 'Tokyo Blade.'",
+      "evaluation": "supported",
+      "evidence": "The text explicitly states she was cast in the stage play adaptation of *Tokyo Blade* and describes her performance arc in it.",
+      "name": "Kana Arima ([Oshi no Ko])",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "He views Roronoa Zoro as his successor and current rival, having challenged him to surpass him and waiting for their final duel at the pinnacle of swordsmanship.",
+      "evaluation": "supported",
+      "evidence": "The text states he challenged Zoro to surpass him, trained him, and sees him as both mentor and rival, indicating he views Zoro as a future successor.",
+      "name": "Dracule Mihawk (ONE PIECE)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She is a core member of the Fairy Tail Guild, having previously been a slave at the Tower of Heaven before joining the guild.",
+      "evaluation": "supported",
+      "evidence": "The text confirms she was enslaved at the Tower of Heaven and later joined Fairy Tail after escaping.",
+      "name": "Erza Scarlet (Fairy Tail)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Rimuru trusts and relies on Shuna for diplomatic matters due to her noble demeanor.",
+      "evaluation": "supported",
+      "evidence": "The text states she frequently accompanies Rimuru on diplomatic missions and impresses foreign leaders with her refined manners and regal bearing.",
+      "name": "Shuna (That Time I Got Reincarnated as a Slime)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "After regaining his memories, he shifts from a 'fight until I die' mindset to a 'fight so I can keep living' philosophy.",
+      "evaluation": "supported",
+      "evidence": "The text outlines his transformation from fighting to die to fighting to live and build a future with Zero Two and his friends.",
+      "name": "Hiro (DARLING in the FRANXX)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "She has short blonde hair with long side tufts, golden eyes, and wears a revealing black outfit with gold accents and a scarf.",
+      "evaluation": "supported",
+      "evidence": "The text mentions her 'short, messy blonde hair with two long bangs,' 'golden eyes,' and attire including a 'black tube top' and 'a long scarf.'",
+      "name": "Leone (Akame ga Kill!)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "No-Face is a lonely, non-verbal spirit who learns social behavior through observation and imitation, drawn to Chihiro's sincerity.",
+      "evaluation": "supported",
+      "evidence": "The text describes him as 'profoundly lonely,' 'silent' (communicating with grunts), and 'highly malleable,' reflecting others' behavior, and drawn to Chihiro due to her kindness.",
+      "name": "Kaonashi (Spirited Away)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Jin was trained by Enshiro Mariya, his former sensei, at a samurai dojo where he was the favored pupil and intended successor.",
+      "evaluation": "supported",
+      "evidence": "The text states Jin was adopted by Mariya Enshirou, trained in Mujushin Kenjutsu, and was his master's most skilled pupil, destined to inherit the dojo.",
+      "name": "Jin (Samurai Champloo)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Roy Mustang's closest friend is Maes Hughes, whose murder devastates him and fuels his determination to expose and dismantle the corrupt military leadership.",
+      "evaluation": "supported",
+      "evidence": "The text states: 'His best and closest friend... Hughes's murder becomes a primary catalyst for Mustang's actions, driving him to expose the conspiracy within the military.'",
+      "name": "Roy Mustang (Fullmetal Alchemist: Brotherhood)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "After Order 66, he was emotionally broken and reluctant to fight, believing Anakin Skywalker had been destroyed by Darth Vader.",
+      "evaluation": "supported",
+      "evidence": "The text states he was broken and faithless after the fall of the Republic, and only drawn out of hiding later, believing his connection to the Force was lost.",
+      "name": "Obi-Wan Kenobi (Star Wars)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She is a professional archaeologist and a senior officer within the Straw Hat Pirates, with a past as an assassin and Baroque Works Vice President.",
+      "evaluation": "supported",
+      "evidence": "She is explicitly called the archaeologist of the Straw Hat Pirates and former vice president of Baroque Works; her role as an assassin is implied by her codename and covert operations.",
+      "name": "Robin Nico (ONE PIECE)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "Sung Jinwoo possesses an indomitable will, driven by his love for his family, which allowed him to endure near-fatal dungeon raids for years and ultimately earned him Ashborn's recognition as a successor.",
+      "evaluation": "supported",
+      "evidence": "The text emphasizes his unbreakable will, love for family as a core motivation, and survival through deadly trials like the Double Dungeon, leading to his inheritance as Shadow Monarch.",
+      "name": "Jin-U Seong (Solo Leveling)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "Kana Arima struggles with a conflict between selflessness and a deep desire for attention, but has learned to support others' success while gradually reclaiming her own confidence.",
+      "evaluation": "supported",
+      "evidence": "The text describes her 'fear of being unwanted' and 'craving for validation' alongside her learned selflessness, and shows her growth in supporting others while regaining confidence as an idol and actress.",
+      "name": "Kana Arima ([Oshi no Ko])",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "He endured an abusive and traumatic childhood after his father's mutation, leading him and his brother to seek a Stand user capable of ending his father's suffering.",
+      "evaluation": "supported",
+      "evidence": "The text confirms the abusive childhood, father's mutation, and that Keicho sought a Stand user to kill their father, with Okuyasu assisting.",
+      "name": "Okuyasu Nijimura (JoJo's Bizarre Adventure: Diamond is Unbreakable)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "She is easily flustered by intimacy and fears social or emotional consequences from physical contact.",
+      "evaluation": "supported",
+      "evidence": "Her severe social anxiety and overreactions to minor interactions imply discomfort with intimacy, and her cringing reactions suggest fear of emotional consequences.",
+      "name": "Tomoko Kuroki (WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "He sacrifices his ability to use alchemy to restore Alphonse's body, accepting the permanent loss as the price for his brother's life.",
+      "evaluation": "supported",
+      "evidence": "The text states he sacrifices his own Gate of Truth—his ability to perform alchemy—to retrieve Alphonse's body and soul, recognizing it as the final toll.",
+      "name": "Edward Elric (Fullmetal Alchemist)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "He had the 'Poor Man's Rose' bomb implanted in his heart, designed to kill his opponent and release a lethal, contagious poison upon his death.",
+      "evaluation": "supported",
+      "evidence": "The text describes the Poor Man's Rose as implanted in his chest, detonating upon his death and releasing a contagious, lethal poison.",
+      "name": "Isaac Netero (Hunter x Hunter (2011))",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "His actions are primarily driven by deep empathy and a strong sense of justice, often pushing him to intervene to help others.",
+      "evaluation": "supported",
+      "evidence": "The text states his actions are 'consistently guided by his heart' and a 'powerful, almost overwhelming, sense of justice,' compelling him to help others.",
+      "name": "Xiaoshi Cheng (Link Click)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Nanachi is a Narehate, a being transformed by the Curse of the Abyss, granting them unique perception and resilience.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly states Nanachi is a 'Narehate' or 'Hollow' who was transformed by the curse of the sixth layer but retained consciousness.",
+      "name": "Nanachi (Made in Abyss)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "He has a deeply strained relationship with his father, Gendo Ikari, marked by abandonment and resentment, yet he still seeks his approval and emotional validation.",
+      "evaluation": "supported",
+      "evidence": "The text describes his abandonment by Gendo, emotional distance, and his motivation to gain his father's approval through piloting.",
+      "name": "Shinji Ikari (Evangelion: 1.0 You Are (Not) Alone)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "She previously used the Shingu Kiriichimonji, a weapon that inflicts unhealable wounds.",
+      "evaluation": "supported",
+      "evidence": "The text states: 'Before obtaining Murasame, Akame wielded the Shingu, Kiriichimonji. This katana had the ability to inflict wounds that would never heal.'",
+      "name": "Akame (Akame ga Kill!)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "Her ultimate technique, Katharterio Salamandra, transforms Lævateinn into a formless blade of heat and light capable of destroying targets over a hundred meters away and splitting a mountain.",
+      "evaluation": "supported",
+      "evidence": "The text describes 'Katharterio Salamandra' as her ultimate technique that unleashes a 'massive, destructive blast of fire' extending 'for 100 meters.'",
+      "name": "Stella  Vermillion (Chivalry of a Failed Knight)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "Historia deeply desired maternal love and approval, even toward a mother who rejected her.",
+      "evaluation": "supported",
+      "evidence": "The text highlights that her only comfort came from her half-sister Frieda, who acted as a motherly figure, and that the 'Krista' persona was inspired by Frieda—indicating a deep yearning for maternal affection despite her biological mother's rejection.",
+      "name": "Krista Lenz (Attack on Titan)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "Stark gave Fern a mirrored-lotus bracelet for her eighteenth birthday, indicating a close and affectionate relationship.",
+      "evaluation": "supported",
+      "evidence": "The text confirms the bracelet from Stark is a cherished gift, symbolizing their close and affectionate bond.",
+      "name": "Fern (Frieren: Beyond Journey’s End)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "She is aggressive, opinionated, and intrusive, with a strong need to be self-reliant and an intense fear of dependency or failure.",
+      "evaluation": "supported",
+      "evidence": "She is described as hot-headed, boastful, and initially isolates herself, showing a need for self-reliance.",
+      "name": "Asuka Langley Souryuu (Evangelion: 2.0 You Can (Not) Advance)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "Despite his stoicism, he shows quiet consideration, offering kindness and advice to those he cares about.",
+      "evaluation": "supported",
+      "evidence": "The text mentions he shows consideration for comrades and develops a protective relationship with Mei.",
+      "name": "Gabimaru (Hell’s Paradise: Jigokuraku)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "He is known as 'Nekoma's Brain' for his strategic brilliance and 'Pudding Head' due to his distinctive hair.",
+      "evaluation": "supported",
+      "evidence": "The text refers to him as the team's 'brain' and mentions his 'pudding-head' hairstyle.",
+      "name": "Kenma Kozume (HAIKYU!!)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "He is the biological son of King Rashid Saluja and Anise, has two half-brothers, and considers Cassim and Mariam as adopted siblings; he later marries Morgiana.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly states he is the illegitimate son of King Rashid and Anise, had two half-brothers, took in Cassim and Mariam as siblings, and eventually marries Morgiana.",
+      "name": "Alibaba Saluja (Magi: The Labyrinth of Magic)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "Despite her privileged upbringing, she possesses genuine kindness and deeply values Miyuki's compassion, which she sees as the true kindness she lacks.",
+      "evaluation": "supported",
+      "evidence": "The text highlights her caring nature, mentorship of Yu Ishigami, and that she falls in love with Miyuki because he sees the 'good person' within her.",
+      "name": "Kaguya Shinomiya (Kaguya-sama: Love Is War)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "She possesses the Creation Rebirth technique, which allows instantaneous self-healing but shortens her lifespan with each use.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly describes Creation Rebirth as allowing instant regeneration from fatal wounds, but at the cost of shortening her lifespan.",
+      "name": "Tsunade Senju (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "She views non-Nazarick beings as inferior and treats them with condescending superiority.",
+      "evaluation": "supported",
+      "evidence": "The text states she has deep-seated contempt for humans and views them as utterly inferior.",
+      "name": "Albedo (Overlord)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She is deeply and obsessively in love with Ainz Ooal Gown, whom she views as her creator and beloved master.",
+      "evaluation": "supported",
+      "evidence": "The text repeatedly emphasizes her obsessive love for Ainz and describes it as the core of her being.",
+      "name": "Albedo (Overlord)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "He can enter Assault Mode, a state of full demonic power that makes him extremely destructive and feared even by the Ten Commandments.",
+      "evaluation": "supported",
+      "evidence": "Text states Assault Mode unleashes full demonic power, reverts him to his ruthless former self, and that he easily overpowered Zeldris and Estarossa, both Ten Commandments.",
+      "name": "Meliodas (The Seven Deadly Sins)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "Despite his silliness, he occasionally displays wisdom, offering insightful and encouraging words to teammates and others.",
+      "evaluation": "supported",
+      "evidence": "The text states he 'can exhibit moments of profound wisdom and insight' and that his words are 'deeply inspiring,' especially to Tsukishima.",
+      "name": "Koutarou Bokuto (HAIKYU!! 2nd Season)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "He is charismatic and deeply respected by his subordinates, but also cold-hearted and willing to sacrifice allies to achieve his goals.",
+      "evaluation": "supported",
+      "evidence": "The text describes him as charismatic and respected, but also cold, manipulative, and willing to sacrifice comrades to achieve his goals.",
+      "name": "Char Aznable (Mobile Suit Gundam I)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "She has strong spiritual awareness, capable of sensing battles and spiritual pressure even through barriers.",
+      "evaluation": "supported",
+      "evidence": "Her spiritual awareness awakens due to proximity to Ichigo, and she becomes involved in battles involving Soul Reapers and Hollows, indicating sensitivity to spiritual pressure.",
+      "name": "Orihime Inoue (Bleach)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 43,
+      "knowledge": "Nia wears Simon's engagement ring throughout her time as the Anti-Spiral Messenger, symbolizing her enduring love for him.",
+      "evaluation": "supported",
+      "evidence": "She marries Simon and is seen with her wedding ring; the text emphasizes her enduring love during her transformation, implying the ring's symbolic continuity.",
+      "name": "Nia Teppelin (Gurren Lagann)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 28,
+      "knowledge": "Her Fifth Form: Swaying Love, Wildclaw creates a tornado of slashes by releasing dozens of rapid, winding attacks mid-somersault.",
+      "evaluation": "supported",
+      "evidence": "The text describes it as 'Mitsuri somersaults backward, unleashing a long string of whip-like attacks,' consistent with the form.",
+      "name": "Mitsuri Kanroji (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "She resents being underestimated due to her small stature and views such remarks as dismissive of her authority and strength.",
+      "evaluation": "supported",
+      "evidence": "She is provoked by the nickname 'Little Girl' from Kōenji, feeling it does not reflect her domineering qualities.",
+      "name": "Arisu Sakayanagi (Classroom of the Elite)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She became an official couple with Banri Tada, broke up with him when his memories began to return and threaten their relationship, but immediately accepted him back when he remembered her.",
+      "evaluation": "supported",
+      "evidence": "The text confirms they become a couple, she breaks up with him due to fear over his returning memories, and reunites with him after his memories of their time together return.",
+      "name": "Kouko Kaga (Golden Time)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "He is a morally hardened survivor who prioritizes survival over ethics, shaped by decades of loss and violence.",
+      "evaluation": "supported",
+      "evidence": "The text describes him as cynical, emotionally guarded, ruthless, and shaped by trauma and loss, prioritizing survival.",
+      "name": "Joel Miller (The Last of Us)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "He possesses the power of Geass, which allows him to issue one irreversible command per person through direct eye contact, limited to actions within their physical and mental capabilities.",
+      "evaluation": "supported",
+      "evidence": "The text describes Geass as 'the Power of Absolute Obedience,' allowing him to implant an irresistible command via eye contact, usable only once per person, with limitations noted.",
+      "name": "Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "Joker is an orphan from Tokyo who was formerly known as Five-Two during his time in the Holy Sol's Shadow.",
+      "evaluation": "supported",
+      "evidence": "The text states he was abandoned by his parents in Tokyo and known by the codename Five-Two in the Holy Sol's Shadow.",
+      "name": "Joker (Fire Force)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "His desire to help others is seen by some as reckless or selfish, as he often puts himself in danger and overuses his powers.",
+      "evaluation": "supported",
+      "evidence": "The text mentions his 'savior complex' and that he overuses his powers, leading Gaen to intervene to restore his humanity.",
+      "name": "Koyomi Araragi (Bakemonogatari)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Her true power is Dragon Manipulation, allowing her to embody the mythological concept of a dragon and access its full range of legendary abilities.",
+      "evaluation": "supported",
+      "evidence": "The text states: 'It is later revealed that Stella's true power is not merely fire manipulation but the ability to embody the traits of a dragon.'",
+      "name": "Stella  Vermillion (Chivalry of a Failed Knight)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "He suffers from extreme perfectionism and obsessive-compulsive tendencies, particularly regarding symmetry, which can incapacitate him.",
+      "evaluation": "supported",
+      "evidence": "His OCD centered on symmetry is described as debilitating, causing despair and incapacitating fits when he perceives asymmetry.",
+      "name": "Death the Kid (Soul Eater)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "He is determined and encourages perseverance, even in the face of adversity.",
+      "evaluation": "supported",
+      "evidence": "The text highlights his perseverance through the 'fallen powerhouse' years and his determination to play without regrets.",
+      "name": "Koushi Sugawara (HAIKYU!!)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "She fell into the lifestream with Cloud and entered his subconscious, where she uncovered the truth about the Nibelheim incident and helped restore his memories.",
+      "evaluation": "supported",
+      "evidence": "The text describes her entering Cloud's subconscious in the Lifestream and helping reconstruct his true memories.",
+      "name": "Tifa Lockhart (Final Fantasy VII)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "He personally negotiated with the Witch Order, begging them for aid and advocating for peace between humans and witches.",
+      "evaluation": "supported",
+      "evidence": "The manga conclusion states he forges a peace treaty with the witches, indicating direct negotiation and advocacy for peace.",
+      "name": "Death the Kid (Soul Eater)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He displays a playful demeanor even in the midst of deadly combat, revealing a disarming contrast between innocence and lethality.",
+      "evaluation": "supported",
+      "evidence": "The text describes him as maintaining a cheerful demeanor and treating duels as play, even in life-and-death situations, showing a contrast between innocence and lethal skill.",
+      "name": "Kojirou Sasaki (Vagabond)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "She is the sniper of Team Dai-Gurren and later becomes a kindergarten teacher and principal on a remote island.",
+      "evaluation": "supported",
+      "evidence": "The text states she is a foundational member of Team Dai-Gurren as a sniper and later becomes a schoolteacher and principal on a remote island.",
+      "name": "Youko Littner (Gurren Lagann)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "She uses the Strength of a Hundred Seal to store chakra, granting her access to a hundred times her normal chakra levels when released.",
+      "evaluation": "supported",
+      "evidence": "The text describes the Strength of a Hundred Seal as storing massive chakra and releasing it to amplify her strength and healing, referred to as granting immense power boost.",
+      "name": "Tsunade Senju (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "She can transform into her Hybrid form by pulling an arrow from her right eye socket.",
+      "evaluation": "supported",
+      "evidence": "The text states she transforms by 'pulling a large, dagger-like arrow from her right eye socket.'",
+      "name": "Quanxi (Chainsaw Man)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She is affiliated with the Zahard Empire, Zahard's Princesses, Team Baam, and Ship's Team.",
+      "evaluation": "supported",
+      "evidence": "The text confirms her status as a Jahad Princess (Zahard Empire, Zahard's Princesses), mentions her loyalty to Bam (Team Baam), and states she officially joins Ship Leesoo's team.",
+      "name": "Endorsi Jahad (Tower of God)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "Sung Jinwoo's job-specific abilities include Shadow Extraction to recruit fallen enemies into his army, Shadow Preservation to store and monitor shadows, Shadow Exchange to teleport via shadows, and Monarch's Domain to increase the strength of all active shadow soldiers by 50%.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly lists all four abilities: Shadow Extraction, Shadow Preservation, Shadow Exchange, and Monarch's Domain with the 50% buff.",
+      "name": "Jin-U Seong (Solo Leveling)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "Haruko uses an electric bass guitar to open N.O. channels in humans, triggering psychic and transformative phenomena.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly states she strikes Naota with her bass to open an N.O. Channel, confirming this ability.",
+      "name": "Haruko Haruhara (FLCL)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "He fought alongside top Pro Heroes during the Paranormal Liberation War, proving himself as a critical combatant.",
+      "evaluation": "supported",
+      "evidence": "The text says he was 'on the front lines' during the Paranormal Liberation War and 'pushed his abilities to their absolute limits,' indicating major combat involvement.",
+      "name": "Izuku Midoriya (My Hero Academia)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "The murder of his childhood friend Sarasa drove him to join Chrollo's revolutionized Phantom Troupe, embracing a life of crime and violence as an act of vengeance.",
+      "evaluation": "supported",
+      "evidence": "The text states the group formed in response to Sarasa's murder, driving them to become villains, and Feitan is a founding member.",
+      "name": "Feitan Portor (Hunter x Hunter (2011))",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "He is driven by a strong moral code to become a true gentleman, treating others with respect unless they are evil.",
+      "evaluation": "supported",
+      "evidence": "The text repeatedly emphasizes his aspiration to be a 'true gentleman' and that his actions are guided by honor, respect, and justice.",
+      "name": "Jonathan Joestar (JoJo's Bizarre Adventure)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "He can evolve into a kakuja form, progressing through multiple stages, culminating in a dragon-like armored state capable of overwhelming even the strongest opponents.",
+      "evaluation": "supported",
+      "evidence": "The text confirms he develops a kakuja with a centipede-like form and evolves into the Dragon, a massive entity capable of overwhelming destruction.",
+      "name": "Ken Kaneki (Tokyo Ghoul)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "She is direct and unafraid to voice her opinions, especially when she believes justice or fairness is at stake.",
+      "evaluation": "supported",
+      "evidence": "The text describes her as 'bossy and headstrong' and willing to make bold moves, including public apologies and romantic advances.",
+      "name": "Aira Shiratori (Dandadan)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "Despite appearing naive, Asta is intelligent, tactical in battle, and a quick learner, capable of adapting to new techniques and strategies rapidly.",
+      "evaluation": "supported",
+      "evidence": "The text states he is more observant than perceived, evolves tactically in battle, and learns quickly from experiences.",
+      "name": "Asta (Black Clover)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "He is a traveling wanderer who studies life through diverse experiences and temporary jobs across Japan.",
+      "evaluation": "supported",
+      "evidence": "He traverses Japan on his bicycle, taking on various jobs to study the world and people, embodying the 'school of life' philosophy.",
+      "name": "Kintarou Ooe (GOLDEN BOY)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "He is affiliated with the Kingdom of Science after previously leading the Tsukasa Empire.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly says he becomes a staunch ally of the Kingdom of Science after leading the Tsukasa Empire.",
+      "name": "Tsukasa Shishiou (Dr. STONE)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "Yotsuba's most frequent playmate is Ena Ayase, with whom she shares a good relationship and common interests like teddy bears.",
+      "evaluation": "supported",
+      "evidence": "The text calls Ena 'a frequent playmate' and notes they share adventures, including the Danbo encounter, and both are shown engaging in childlike play.",
+      "name": "Yotsuba Koiwai (Yotsuba&!)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Rin rigorously trains and maintains his physique daily, dedicating every waking moment to self-improvement in pursuit of football excellence.",
+      "evaluation": "supported",
+      "evidence": "The text mentions his 'diligent training regimen' including yoga and meditation, and that his commitment is 'exceptionally dedicated'.",
+      "name": "Rin Itoshi (Blue Lock)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "Nia was discovered by Simon in a pod and learned about humanity from him, marking the beginning of her journey with Team Dai-Gurren.",
+      "evaluation": "supported",
+      "evidence": "The text says Simon discovers her in a stasis capsule, and her bond with him helps her learn about humanity and join the team.",
+      "name": "Nia Teppelin (Gurren Lagann)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 33,
+      "knowledge": "She struggles with insecurity and deeply desires to be useful to Alibaba and Aladdin as a way of repaying their kindness.",
+      "evaluation": "supported",
+      "evidence": "The text states she has a profound sense of insecurity and a deep desire to be useful to Aladdin and Alibaba out of gratitude.",
+      "name": "Morgiana (Magi: The Labyrinth of Magic)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "Frieren is known as 'Frieren the Slayer,' a legendary mage famed for killing more demons than anyone in history.",
+      "evaluation": "supported",
+      "evidence": "The text states that the Japanese title translates to 'Frieren the Slayer,' a name given by demons due to her reputation for killing more of them than any other.",
+      "name": "Frieren (Frieren: Beyond Journey’s End)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He has a youthful appearance with blue hair, large blue eyes, and a long braid, typically wearing a blue vest, white Arabian pants, a magic turban with a forehead ruby, and a golden flute as his ex-metal vessel.",
+      "evaluation": "supported",
+      "evidence": "The physical description matches exactly: blue hair, large blue eyes, braid, blue vest, white Arabian pants, magic turban, and golden flute around his neck.",
+      "name": "Aladdin (Magi: The Labyrinth of Magic)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "He fought and knocked out a bear in self-defense during a training camp, suffering severe injuries but ultimately defeating it with his fists.",
+      "evaluation": "supported",
+      "evidence": "The text states he defeated a wild bear with his bare hands, earning the nickname 'Bear Slayer', and sustained severe scars.",
+      "name": "Mamoru Takamura (Hajime no Ippo: The Fighting!)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "She has a playful relationship with her teammates, often teasing Ryuji, Yusuke, and Morgana with clever puns and blunt humor.",
+      "evaluation": "supported",
+      "evidence": "The text mentions she enjoys teasing Ryuji and Yusuke and has a 'sassy, snarky' personality.",
+      "name": "Futaba Sakura (Persona 5)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He is the son of the Fourth Kazekage Rasa and Karura, brother to Kankurō and Temari, uncle to Shikadai Nara, and adoptive father to Shinki.",
+      "evaluation": "supported",
+      "evidence": "The text identifies him as the son of Rasa and Karura, brother to Kankurō and Temari, and adoptive father to Shinki. It does not mention Shikadai Nara.",
+      "name": "Gaara (Naruto)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "He believes heroes should actively intervene in others' lives to help them emotionally and morally.",
+      "evaluation": "supported",
+      "evidence": "The text says he has a 'strong sense of responsibility' and inspires others, and his actions (e.g., helping Todoroki accept himself) reflect emotional intervention.",
+      "name": "Izuku Midoriya (My Hero Academia)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She performed Recompense Summoning by sacrificing Aquarius's key to summon the Celestial Spirit King and save her friends.",
+      "evaluation": "supported",
+      "evidence": "The text describes her 'break[ing] the key of Aquarius... to summon the Celestial Spirit King' to save her friends, which matches Recompense Summoning.",
+      "name": "Lucy Heartfilia (Fairy Tail)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She behaves like a typical preteen, without special academic or extracurricular involvement, making her more relatable and grounded compared to her peers.",
+      "evaluation": "supported",
+      "evidence": "The text positions her as a 'normal' character without special academic or extracurricular focus, representing the powerless majority.",
+      "name": "Ruiko Saten (A Certain Scientific Railgun)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "Soul possesses basic hand-to-hand combat skills and can use partial weapon transformations in human form, such as turning his arm into a blade, to fight independently.",
+      "evaluation": "supported",
+      "evidence": "The text explicitly states he can 'partially transform his limbs into blades' and fight as a weapon independently.",
+      "name": "Soul Eater Evans (Soul Eater)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "Chito is literate in Contemporary Kana but cannot read kanji or Latin alphabets, which are remnants of the old world.",
+      "evaluation": "supported",
+      "evidence": "The text states she 'can read and write in contemporary Kana, though she cannot decipher older scripts like Kanji or Latin alphabets.'",
+      "name": "Chito (Girls' Last Tour)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "He can consume demon flesh to gain enhanced physical strength, regeneration, and demonic traits.",
+      "evaluation": "supported",
+      "evidence": "The text clearly states: 'Genya's most extraordinary ability... allows him to consume demon flesh and temporarily gain their powers. This grants him enhanced physical strength and potent regenerative abilities, enabling him to survive fatal wounds.'",
+      "name": "Genya Shinazugawa (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "He owns and pilots a spaceship named Hammer Head, which he uses as a bounty hunter.",
+      "evaluation": "supported",
+      "evidence": "The text mentions he pilots his personal ship, the 'Hammerhead,' a modified salvage craft, as a bounty hunter.",
+      "name": "Jet Black (Cowboy Bebop)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "He uses Crazy Diamond to create traps, shields, and environmental hazards by restoring broken materials around enemies or forming defensive barriers.",
+      "evaluation": "supported",
+      "evidence": "The text describes trapping enemies by restoring broken asphalt around them, which qualifies as creating traps using restoration.",
+      "name": "Jousuke Higashikata (JoJo's Bizarre Adventure: Diamond is Unbreakable)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "Xiao is detached from mortal pleasures and finds most human customs burdensome, though he tolerates Almond Tofu as a rare exception.",
+      "evaluation": "supported",
+      "evidence": "The text says he 'avoids mortal crowds and festivities' and 'finds immense comfort in Almond Tofu,' noting its texture reminds him of lost dreams, making it a rare indulgence.",
+      "name": "Xiao (Genshin Impact)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 52,
+      "knowledge": "Despite his nihilism, he shows deep loyalty and emotional attachment to All For One, whom he sees as a father figure.",
+      "evaluation": "supported",
+      "evidence": "All For One acted as a foster father, and Shigaraki shows loyalty and a father-son bond despite later resistance.",
+      "name": "Tomura Shigaraki (My Hero Academia)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 39,
+      "knowledge": "Zeke justifies mass extinction as a compassionate act to end Eldian suffering and prevent future generations from enduring the same fate.",
+      "evaluation": "supported",
+      "evidence": "The text states he views extinction as a 'merciful end' to free future Eldians from suffering.",
+      "name": "Zeke (Attack on Titan)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "He is in a romantic relationship with Marin Kitagawa, whom he confessed to and began dating after mutual confessions of love.",
+      "evaluation": "supported",
+      "evidence": "The text states their bond deepens into a romantic one, built on mutual respect and affection, and that Marin is the first to praise his hobby, leading to emotional growth and romantic development.",
+      "name": "Wakana Gojou (My Dress-Up Darling)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "Though initially timid and reliant on Kamina, Simon shows natural combat talent and gradually gains confidence in battle.",
+      "evaluation": "supported",
+      "evidence": "The text notes his initial dependence on Kamina, but highlights his exceptional digging skill and growth into a leader who overcomes despair and fights for humanity.",
+      "name": "Simon (Gurren Lagann)",
+      "type": "personality",
+      "human": null
+    }
+  ],
+  "partially supported": [
+    {
+      "id": 6,
+      "knowledge": "Asirpa wears traditional Ainu accessories including a matanpushi headband, tekunpe hand coverings, ninkari earrings from her mother, and a rekutunpe necklace in warm weather.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions she wears a headband and traditional jewelry, but does not specify the types like matanpushi, tekunpe, ninkari, or rekutunpe.",
+      "name": "Asirpa (Golden Kamuy)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "She is the daughter of Joseph and Mrs. Fenette.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her father is Joseph Fenette but does not mention her mother, Mrs. Fenette.",
+      "name": "Shirley Fenette (Code Geass: Lelouch of the Rebellion)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She is a member of the Tohsaka and Zenjou mage families.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is from the Tohsaka magecraft lineage, but does not mention the Zenjou family.",
+      "name": "Rin Tohsaka (Carnival Phantasm)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "Ruby speaks without filtering her thoughts, often teasing others like Kana Arima with nicknames and blunt remarks.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions she is 'comically unfiltered' and straightforward, but does not provide examples of teasing Kana Arima with nicknames.",
+      "name": "Ruby Hoshino ([Oshi no Ko])",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 51,
+      "knowledge": "She longs for a deeper relationship with Izuku and eventually embraces it after his confession.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her romantic feelings and that she struggled to balance them with her goals, but does not mention Izuku's confession or her embracing a deeper relationship.",
+      "name": "Ochako Uraraka (My Hero Academia)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 40,
+      "knowledge": "Annie uses her hooded sweatshirt as a psychological shield to isolate herself and create emotional distance in social settings.",
+      "evaluation": "partially supported",
+      "evidence": "She wears the hooded sweatshirt and is described as emotionally withdrawn, but the text does not explicitly state the clothing functions as a 'psychological shield' for isolation.",
+      "name": "Annie Leonhart (Attack on Titan)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "During the Walter Park attack, she evacuated civilians and then returned to fight the Panther Rat despite being ordered to stay back.",
+      "evaluation": "partially supported",
+      "evidence": "The text states she fought a giant magical beast at Walter Park alongside Opera, but does not mention evacuating civilians or being ordered to stay back.",
+      "name": "Ameri Azazel (Welcome to Demon School! Iruma-kun)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "He travels to Xing to learn alkahestry from May Chang and later returns to Amestris with her.",
+      "evaluation": "partially supported",
+      "evidence": "The text states he travels to Xing to study alkahestry and that May travels with him, but does not specify he learns from May or that they return to Amestris together.",
+      "name": "Alphonse Elric (Fullmetal Alchemist)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "In the real world, Alice often wears the SAO-Survivor school uniform and keeps her white headband as a personal signature.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she keeps the white headband as a signature, but does not mention the SAO-Survivor school uniform.",
+      "name": "Alice Zuberg (Sword Art Online)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "She has been close friends with Kaguya Shinomiya since middle school and has frequently stayed overnight at her house.",
+      "evidence": "The text confirms she has been close friends with Kaguya since middle school, but does not mention overnight stays.",
+      "evaluation": "partially supported",
+      "name": "Chika Fujiwara (Kaguya-sama: Love Is War)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Benimaru is a Divine Oni, specifically a Flame Soul Oni.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he evolved into a 'Fair Oni (Flame Spirit Oni)', which matches 'Flame Soul Oni'; it also states he became a 'divine monster spirit', supporting the 'Divine Oni' aspect, though the exact term 'Divine Oni' is not used.",
+      "name": "Benimaru (That Time I Got Reincarnated as a Slime)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She is a member of Class 2-D during her second year at school.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is in Class D but does not explicitly specify her second-year status.",
+      "name": "Kei Karuizawa (Classroom of the Elite)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "She is a master of psychic combat, employing strategic techniques such as decoys, signal wavelength copying, and anti-psychic whirlwinds.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she uses psychic whirlwinds and is a skilled combatant, but does not mention decoys or signal wavelength copying.",
+      "name": "Tatsumaki (One-Punch Man)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "Tomoe has mastered cooking and uses it both to care for Nanami and as a passive-aggressive tool when annoyed.",
+      "evaluation": "partially supported",
+      "evidence": "The text states he is an excellent cook and shows domestic care, but does not mention using cooking as a passive-aggressive tool.",
+      "name": "Tomoe (Kamisama Kiss)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "He strongly dislikes incompetent or irresponsible people and has a particular aversion to insects.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions his disdain for Joseph's lack of discipline, indicating dislike of irresponsibility, but does not mention any aversion to insects.",
+      "name": "Caesar Zeppeli (JoJo's Bizarre Adventure (TV))",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "She is known by multiple aliases including 'Perverted Crusader', 'Divorcedness', 'Perviness', 'Lewdness', 'Lewdsader', 'Pervy Noble', and is mockingly called 'Boobs' by Kazuma Satou.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her alias 'Darkness' and implies her perverted nature, but does not explicitly list the other aliases or Kazuma calling her 'Boobs'.",
+      "name": "Darkness (KONOSUBA -God's blessing on this wonderful world!)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "After the timeskip, she wears a distinctive outfit featuring a salmon sarong skirt, a navy blue leather vest with a chrysanthemum print, high-heeled pumps, and signature orange-lensed sunglasses.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her post-timeskip attire includes long skirts and high-heeled shoes, but does not confirm the specific salmon sarong, vest with chrysanthemum print, or orange-lensed sunglasses.",
+      "name": "Robin Nico (ONE PIECE)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "After absorbing his Royal Guards, he gains the ability to fly and fire explosive aura blasts, significantly enhancing his mobility and offensive power.",
+      "evaluation": "partially supported",
+      "evidence": "The text states after absorbing Shaiapouf and Menthuthuyoupi, he gained 'Metamorphosis,' allowing him to grow wings (flight), but does not mention explosive aura blasts.",
+      "name": "Meruem (Hunter x Hunter (2011))",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "His Evangelion plug suit is primarily dark blue with a light blue torso and black accents.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions his 'distinctive blue and white plugsuit' but does not specify the exact color pattern or black accents.",
+      "name": "Shinji Ikari (Evangelion: 1.0 You Are (Not) Alone)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "Lyney is gracious and expressive, showing appreciation through thoughtful gestures like hosting tea parties.",
+      "evaluation": "partially supported",
+      "evidence": "The text describes him as 'gracious' in tone, 'eloquent,' and expressive, with a 'gift for gab' and 'thoughtful' in protecting others, but does not mention hosting tea parties or similar specific gestures.",
+      "name": "Lyney (Genshin Impact)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "She takes great pleasure in combat, a trait that others have noted as excessive.",
+      "evaluation": "partially supported",
+      "evidence": "The text describes her as enjoying combat and having a 'ferocious' style, but does not mention others commenting on its excessiveness.",
+      "name": "Leone (Akame ga Kill!)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "He has enhanced strength, sufficient to injure monsters resistant to gunfire.",
+      "evaluation": "partially supported",
+      "evidence": "The text says his Justice Tackle distracted the Deep Sea King but does not confirm he injured a monster resistant to gunfire with his base strength.",
+      "name": "Satoru (One-Punch Man)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "Ange was close to her cousin Maria and played with her magical world and toys like Sakutarou before being rejected.",
+      "evaluation": "partially supported",
+      "evidence": "The text says she was close to Maria and later comes to respect her world, but does not mention being rejected by Maria or playing with Sakutarou as a child.",
+      "name": "Ange Ushiromiya (Umineko: When They Cry)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "Itachi is highly skilled in swordsmanship and used a sword as his primary weapon during the Uchiha massacre.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms his skill in taijutsu and mentions his sword-based Susanoo, but does not specify he used a sword as his primary weapon during the massacre.",
+      "name": "Itachi Uchiha (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "She is a descendant of Kappa and requires three daily baths to avoid physical discomfort, going so far as to install a bathtub in her dormitory kitchen.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she has Kappa ancestry and must bathe multiple times a day to avoid discomfort, but does not mention installing a bathtub in her kitchen.",
+      "name": "Isuzu Sento (Amagi Brilliant Park)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "After returning to the human world, Chihiro appears to lose her memories of the Spirit World, though there is a suggestion that these memories may resurface in time, and that she may reunite with Haku in the future.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions the glittering hairband as 'the sole physical proof that her experiences were real and not a dream,' implying uncertainty about memory retention, but does not explicitly state she loses her memories or may reunite with Haku in the future.",
+      "name": "Chihiro Ogino (Spirited Away)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "He believes true friends do not exploit one another and values loyalty and mutual respect in relationships.",
+      "evaluation": "partially supported",
+      "evidence": "The text highlights mutual respect and deep bonds with friends, but does not explicitly mention belief against exploitation.",
+      "name": "Tamaki Amajiki (My Hero Academia)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "As Dan Mori, he appears as a scarred, medium-height young man with an athletic build, large round black eyes with yellow pupils, and tousled teal hair, often described as adorable.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms Dan Mo-ri has teal hair and a younger, innocent appearance, but does not mention scars, eye color, or being described as adorable.",
+      "name": "Mo-Ri Jin (The God of High School)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She is a petite girl with fair skin, long straight brown hair typically tied in a ponytail, goldish-brown eyes, and a D-cup bust.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her long straight brown hair in a ponytail and golden-brown eyes, but describes her as 'average height and build' rather than petite, and does not mention skin tone or bust size.",
+      "name": "Nanami Aoyama (The Pet Girl of Sakurasou)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She is a member of Judgment, a student-run public safety organization in Academy City, assigned to the 3rd Branch Office.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is a member of Judgment and part of the 177th Branch, not the 3rd Branch Office.",
+      "name": "Kuroko Shirai (A Certain Scientific Railgun)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 28,
+      "knowledge": "He is a capable leader with strong organizational skills, able to manage projects and coordinate people effectively.",
+      "evaluation": "partially supported",
+      "evidence": "He engineers complex plans like the student council election strategy, showing organizational skill, but the text does not explicitly frame him as a leader.",
+      "name": "Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "He was born at Grace Field House and transferred to Plantation 3 as an infant.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he was raised at Grace Field House but does not mention being born there or transfer to Plantation 3.",
+      "name": "Norman (The Promised Neverland)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "His hero costume is a black robe with dark purple highlights, knee-high black boots, and covers most of his body.",
+      "evaluation": "partially supported",
+      "evidence": "The text describes a 'dark, flowing cloak that covers his entire body' and practical gear underneath, but does not mention dark purple highlights or knee-high boots specifically.",
+      "name": "Fumikage Tokoyami (My Hero Academia)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "He is a muscular young man with unkempt blond hair, green eyes, and two distinctive colored birthmarks on his cheeks, and is considered extremely handsome.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he is muscular, handsome, has unkempt blond hair and distinctive cheek birthmarks, but does not mention his eye color (green).",
+      "name": "Caesar Zeppeli (JoJo's Bizarre Adventure (TV))",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "She is a former child actress and model who returns to the entertainment industry during high school, and later becomes a university student and briefly considers a career as a police officer.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she was a child actress and model who returns to acting during high school and later enrolls in university, but does not mention her considering a career as a police officer.",
+      "name": "Mai Sakurajima (Bunny Girl Senpai)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She has a mature physique, curly blonde hair styled in twin drills, and yellow square-shaped eyes.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her curly blonde hair in twin drills and yellow eyes, but does not specify that her eyes are square-shaped or explicitly describe her physique as mature.",
+      "name": "Mami Tomoe (Puella Magi Madoka Magica)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "He is mentored by his father, Death, and by Professor Franken Stein at the DWMA.",
+      "evaluation": "partially supported",
+      "evidence": "His father's influence is clear, and Stein is mentioned as commenting on his personality, but direct mentorship by Stein is not stated.",
+      "name": "Death the Kid (Soul Eater)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 38,
+      "knowledge": "She upholds rules and decorum, especially in public or academic settings.",
+      "evaluation": "partially supported",
+      "evidence": "She is described as principled and idealistic, but the text does not specifically address rule-following in public or academic decorum.",
+      "name": "Honami Ichinose (Classroom of the Elite)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Panda shares a friendly and playful rapport with his classmates, such as Nobara, often engaging in lighthearted teasing together.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions playful banter with classmates like Maki and Toge but does not specifically reference Nobara.",
+      "name": "Panda (Jujutsu Kaisen)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "She has short brown hair in a ponytail with a strand on the right side, brown eyes with white pupils, and four distinctive moles on her face—two under her left eye, one near her mouth, and one on her left cheek.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her dark brown hair tied back, brown eyes, and numerous freckles, but does not mention white pupils or the specific pattern of moles; it refers to freckles instead of moles.",
+      "name": "Kobeni Higashiyama (Chainsaw Man)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "Oz has blond spiky hair, green eyes, and a distinctive cowlick; his eyes turn red when using B-Rabbit's power.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms 'tousled, short blond hair and piercing green eyes' but does not mention a cowlick or his eyes turning red when using power.",
+      "name": "Oz Vessalius (Pandora Hearts)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "He deeply respects and loves his older half-brother Tamegorou, who was the only person to care for him in childhood, and continues to send him letters even after his death.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he deeply loved Tamegorou, who was kind to him, and that he was blinded protecting young Hijikata, but does not mention sending letters after his death.",
+      "name": "Toushirou Hijikata (Gintama)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "She deeply loves her homeland, the Vermillion Empire, considers its people her family, and aspires to become a knight to protect them and demonstrate her strength proudly.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is the princess of the Vermillion Empire and aspires to be a knight to prove her strength, but does not explicitly state she considers its people her family.",
+      "name": "Stella  Vermillion (Chivalry of a Failed Knight)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "He secretly loves and frequently cooks Ohagi, though his pride prevents him from openly admitting it.",
+      "evaluation": "partially supported",
+      "evidence": "The text lists Ohagi as his favorite food, but does not mention cooking it or hiding his affection due to pride.",
+      "name": "Sanemi Shinazugawa (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "He is a mathematics professor and a former King's Scholar who achieved academic excellence at a young age.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he is a mathematics professor and possesses genius-level intellect, but does not mention being a King's Scholar or academic achievements at a young age.",
+      "name": "William Moriarty (Moriarty the Patriot)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "She maintains a cheerful, childlike demeanor despite her power, often reverting to playful innocence when not in combat.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions Pip brought 'lightness' to her life and she mimics Alucard's attire as a joke, suggesting moments of playfulness, but does not broadly describe a cheerful or childlike demeanor.",
+      "name": "Seras Victoria (Hellsing)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "Dimple initially sought to use Mob for his own godhood but later shifted his goal to helping Mob become a god.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he initially wanted to use Mob for godhood and developed loyalty, but does not state he shifted to helping Mob become a god.",
+      "name": "Ekubo (Mob Psycho 100)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She is an attractive young woman of above-average height with a slender build, fair skin, sharp dark brown (nearly black) eyes, and long jet-black hair; she bears a prominent scar on her back from being thrown out of a window by Akito.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her tall, slender build, fair skin, jet-black hair, and back scar from Akito pushing her, but does not specify eye color as dark brown or 'nearly black.'",
+      "name": "Isuzu Souma (Fruits Basket)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Faye was born on August 14, 1994, likely in Singapore, to wealthy parents.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she was born in 1994 to wealthy parents, but does not specify the date (August 14) or location (Singapore).",
+      "name": "Faye Valentine (Cowboy Bebop)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Loid is a former Westalian army sergeant who now works covertly as a top-tier intelligence agent and publicly as a psychiatrist.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he joined the military as a youth and was later recruited by WISE, and that he works covertly as a top spy and publicly as a psychiatrist, but does not specify his rank as 'sergeant'.",
+      "name": "Loid Forger (Spy x Family)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "He can execute the Minus-Tempo Quick and its reverse variation with high precision, including with his twin brother Osamu and later with Hinata, without prior practice.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions he replicates the 'freak quick' with Osamu on the spot and later executes it with Hinata professionally, implying Minus-Tempo Quick execution, but does not specify reverse variation or lack of practice.",
+      "name": "Atsumu Miya (Haikyu!!)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Greed leads a gang of chimeric henchmen at Devil's Nest and later forms alliances with Edward Elric, Darius, Heinkel, and Ling Yao.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he leads chimeric henchmen at Devil's Nest and forms alliances with Edward Elric and Ling Yao, but does not mention Darius or Heinkel.",
+      "name": "Greed (Fullmetal Alchemist)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "Arthur's ultimate technique, Steeled for Death, allows him to unleash unimaginable power by fully accepting his own death, culminating in the attack Violet Flash: Earth Divider, which split the Earth and killed Dragon.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he defeats Dragon in a final battle, connected to Adolla and reaching god-like power, but does not name 'Steeled for Death' or 'Violet Flash: Earth Divider,' nor does it say he split the Earth.",
+      "name": "Arthur Boyle (Fire Force)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 20,
+      "knowledge": "Roxy deeply cherishes her life with Rudeus and expresses that her happiness is entirely tied to his survival, revealing her emotional vulnerability and devotion.",
+      "evaluation": "partially supported",
+      "evidence": "The text shows deep devotion and emotional bond with Rudeus, but does not include a direct statement that her happiness is entirely tied to his survival.",
+      "name": "Roxy Migurdia (Mushoku Tensei: Jobless Reincarnation)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "She previously wore her hair short and adopted a more masculine style in middle school, and later in life again cuts her hair short and dresses more maturely.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her karate background in middle school and her ability to pull off a 'cooler, more androgynous look', but does not confirm she cut her hair short again later in life.",
+      "name": "Miyako Shikimori (Shikimori's Not Just a Cutie)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "He is deeply curious about the modern world and enjoys simple human experiences like eating snacks and watching videos.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions he adopts modern clothing and enjoys a strategy video game, showing curiosity, but does not mention eating snacks or watching videos.",
+      "name": "Iskandar (Fate/Zero)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Chise is known by several aliases, including Sleigh Beggy, Robin, My Puppy, and Daughter of Thorn.",
+      "evaluation": "partially supported",
+      "evidence": "The text explicitly refers to her as 'Sleigh Beggy' but does not mention the other aliases.",
+      "name": "Chise Hatori (The Ancient Magus' Bride: Those Awaiting a Star)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "She shares a complicated but ultimately respectful relationship with C.C., evolving from jealousy to mutual care and understanding.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions jealousy and tension due to C.C.'s closeness to Lelouch, and that they are allies, but does not confirm evolution to mutual care or respect.",
+      "name": "Kallen Stadtfeld (Code Geass: Lelouch of the Rebellion)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "Panda occasionally wears clothing such as armbands, scarves, and jackets.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions he wears armbands but does not reference scarves or jackets.",
+      "name": "Panda (Jujutsu Kaisen)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "He views Narumi Momose as cute and reminiscent of his ideal anime girl, and reacts protectively when she interacts with other men, like a father figure.",
+      "evaluation": "partially supported",
+      "evidence": "He finds Narumi cute and his type, and acts protectively toward her, but the text does not specify that she reminds him of his ideal anime girl or that he reacts to her interactions with men.",
+      "name": "Tarou Kabakura (Wotakoi: Love is Hard for Otaku)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "He is skilled in investigative tactics, including stealthy intelligence gathering and psychological manipulation during interrogations.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions his investigative background, sharp mind for deduction, and network of contacts, but does not specify stealth or psychological manipulation.",
+      "name": "Jet Black (Cowboy Bebop)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Anya's key relationships include Becky Blackbell as her best friend, Damian Desmond as an acquaintance and admirer, and rivals Ewen Egeburg and Emile Elman.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms Becky as her best friend and Damian as a focus of her efforts with a developing friendship, but does not mention Ewen or Emile.",
+      "name": "Anya Forger (Spy x Family)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "Gin ages at one-quarter the rate of a normal human due to a spell cast by the Mountain God.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he does not appear to age or ages imperceptibly due to the mountain god's spell, but does not specify the exact rate of one-quarter.",
+      "name": "Gin (Into the Forest of Fireflies' Light)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "Her signature footwear is orange high-heeled gladiator sandals, and she consistently wears high heels regardless of terrain or situation.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her wearing orange high-heeled sandals after the timeskip, but does not confirm she *always* wears high heels regardless of terrain.",
+      "name": "Nami (ONE PIECE)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "After the disaster, Mitsuha relocates to Tokyo, graduates from university, and works at a large company while carrying emotional memories of her lost connection with Taki.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she lives in Tokyo eight years later and is haunted by a sense of longing for a person she can't name, but does not mention university or working at a large company.",
+      "name": "Mitsuha Miyamizu (Your Name.)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "Balalaika is a tall, pale, blonde woman with blue eyes, a mole under her left eye, and extensive facial and bodily scars; she wears a wine-colored suit, keeps her long hair in a large ponytail, and is almost always seen smoking a thin Russian cigar.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is tall, blonde, wears a wine-colored suit, has extensive burn scars, and is almost always seen with a cigar. However, it does not mention her eye color, a mole under her left eye, or that her hair is in a ponytail.",
+      "name": "Balalaika (Black Lagoon)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 39,
+      "knowledge": "He remains calm in combat with strong faith in his Stand’s abilities, though he doubts himself when plans fail.",
+      "evaluation": "partially supported",
+      "evidence": "The text emphasizes his confidence and strategic use of Crazy Diamond, but does not mention self-doubt when plans fail.",
+      "name": "Josuke Higashikata (JoJo's Bizarre Adventure)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "Hiyori typically wears her middle school sailor uniform or her high school uniform, which includes a light purple blazer, dark purple skirt, and black shoes and socks.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her wearing a lavender sailor uniform, consistent with a middle school uniform, but does not describe a high school uniform with a blazer or dark purple skirt.",
+      "name": "Hiyori Iki (Noragami)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "In ALfheim Online, her original avatar is Titania, the Fairy Queen, wearing a white outfit with a long skirt and a red bow.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she was held captive as Titania, the Queen of the Fairies, in a white outfit, but does not mention the red bow specifically.",
+      "name": "Asuna Yuuki (Sword Art Online)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Yona is affiliated with the Sky Tribe, Hiryuu Castle, Kuuto, and the group known as the Dark Dragon and the Happy Hungry Bunch.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her affiliation with Hiryuu Castle and mentions her journey across the kingdom, but does not mention the Sky Tribe, Kuuto, or the 'Dark Dragon and the Happy Hungry Bunch.'",
+      "name": "Yona (Yona of the Dawn)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She has long, wavy light brown hair and large dark amber eyes, which she inherited from her parents.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her long, curly orange-gold hair and large dark amber eyes, and notes these traits are inherited from her parents, but describes the hair color as 'orange-gold' rather than 'light brown'.",
+      "name": "Taiga Aisaka (Toradora!)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "She shares a close but ultimately fractured friendship with Ritsuko Akagi, which deteriorates due to ideological differences over the treatment of the Evangelion pilots and NERV's secrets.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms a close friendship with Ritsuko and underlying tension due to NERV's secrets, but does not mention ideological differences over pilot treatment or a full fracture of the friendship.",
+      "name": "Misato Katsuragi (Evangelion: 1.0 You Are (Not) Alone)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He lacks willpower, is easily swayed by temptation, and has a frivolous nature that makes him susceptible to flattery, fame, and immediate gratification.",
+      "evaluation": "partially supported",
+      "evidence": "The text shows he is lazy, lecherous, and seeks comfort, indicating susceptibility to temptation, but does not explicitly mention flattery or fame.",
+      "name": "Kazuma Satou (KONOSUBA -God's blessing on this wonderful world!)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 35,
+      "knowledge": "She was an exemplary student throughout middle school, maintaining perfect attendance and top academic performance.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions she attended a large public junior high and had a personality shift in middle school, but does not confirm perfect attendance or top performance.",
+      "name": "Suzune Horikita (Classroom of the Elite)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "She is the younger sister of Sirzechs Lucifer, aunt to Millicas Gremory, sister-in-law to Grayfia Lucifuge, and cousin to Sairaorg Bael.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is the younger sister of Sirzechs Lucifer, aunt to Millicas, and sister-in-law to Grayfia, but does not mention being cousin to Sairaorg Bael.",
+      "name": "Rias Gremory (High School DxD)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "He was formerly affiliated with Corusan Middle School and U.A. High School.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms his affiliation with U.A. High School but does not mention Corusan Middle School.",
+      "name": "Shouto Todoroki (My Hero Academia)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "He eventually comes to return Juvia Lockser's feelings and makes her happiness a personal goal.",
+      "evaluation": "partially supported",
+      "evidence": "The text acknowledges his genuine care and protective feelings but does not confirm he returns her romantic feelings or makes her happiness a goal.",
+      "name": "Gray Fullbuster (FAIRY TAIL OVA)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "Tohka wears the standard Raizen High School uniform, adapting to human norms with a blue skirt and long black stockings.",
+      "evaluation": "partially supported",
+      "evidence": "Text confirms she wears the Raizen High uniform but does not specify the blue skirt or black stockings.",
+      "name": "Tooka Yatogami (Date A Live)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "Katsura is a legendary swordsman and a member of the Joui Four, known for his aggressive, offense-focused style and mastery of the katana, earning him the title 'The Noble Youth of Madness'.",
+      "evaluation": "partially supported",
+      "evidence": "He is called 'Nobleman of Madness' and described as a master swordsman equal to Gintoki and Takasugi, but the text emphasizes defensive tactics over aggressive offense.",
+      "name": "Kotarou Katsura (Gintama)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "He is the creator and master of the Flying Thunder God Technique, earning him the title \"Konoha's Yellow Flash\", and his skill surpasses even the technique's original inventor.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he mastered the Flying Thunder God Technique and earned the title 'Konoha's Yellow Flash', but does not state his skill surpasses the original inventor (Tobirama).",
+      "name": "Minato Namikaze (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She has waist-length chestnut-colored hair resembling the meaning of her name 'Kuri' (chestnut) and dull violet eyes.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her long reddish-brown (auburn) hair and dull violet eyes, but does not confirm it is waist-length or explicitly link the color to her name's meaning.",
+      "name": "Kurisu Makise (Steins;Gate)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She is in a romantic relationship with Izumi Miyamura, which initially caused her embarrassment when revealed to her family.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms her romantic relationship with Miyamura and mentions her strained relationship with her father, but does not explicitly state she was embarrassed when the relationship was revealed to her family.",
+      "name": "Kyouko Hori (Hori-san to Miyamura-kun)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "Koichi deeply loves Yukako Yamagishi and is willing to sacrifice his own sight to protect her from emotional pain.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms their romantic relationship and that he saves her life, but does not mention sacrificing his sight.",
+      "name": "Kouichi Hirose (JoJo's Bizarre Adventure: Diamond is Unbreakable)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He was the leader of the Vanguard Action Squad and later a commander in the Violet Regiment.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he 'leads the Vanguard Action Squad' in the Forest Training Camp Arc, but does not mention him being a 'commander in the Violet Regiment.'",
+      "name": "Dabi (My Hero Academia)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Filo was hatched from a monster egg bought by Naofumi in Beloukas, originally intended as part of a business venture.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms Naofumi bought the egg in Beloukas to bolster his party's strength, but does not specify it was for a 'business venture'.",
+      "name": "Filo (The Rising of the Shield Hero)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "He is known as \"Iron Man\" Franky and was formerly known as \"Cyborg\" Franky.",
+      "evaluation": "partially supported",
+      "evidence": "The text refers to him as \"Cyborg\" Franky but does not mention the nickname \"Iron Man\" Franky.",
+      "name": "Franky (ONE PIECE)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "She masters several rapier-based Sword Skills including Linear, Star Splash, and Flashing Penetrator.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her mastery of rapier skills and lists *Neutron* and *Quadruple Pain*, but does not name Linear, Star Splash, or Flashing Penetrator.",
+      "name": "Asuna (Sword Art Online)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "Anya dislikes studying because her early life was dominated by forced training of her telepathic abilities.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions her academic struggles and that her early life involved experiments, but does not explicitly link her dislike of studying to the forced training.",
+      "name": "Anya Forger (Spy x Family)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "Manbagi struggles to fully move on from her feelings for Tadano, leading to passive-aggressive behavior toward others, particularly Hitohito, as she processes her emotions.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions passive-aggressive behavior toward Tadano, but does not specify Hitohito or broader behavior toward others.",
+      "name": "Rumiko Manbagi (Komi Can't Communicate)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 35,
+      "knowledge": "Though calm and composed, he holds onto past grievances, particularly resenting having to use techniques taught by Yoruichi.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions Yoruichi teased him and that he had a rivalry with her, but does not explicitly state he resents using her techniques.",
+      "name": "Byakuya Kuchiki (Bleach)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 38,
+      "knowledge": "He killed Gotoh by adapting to his coin-based attacks and using Bungee Gum to counter and close the distance for a fatal strike.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he killed Gotoh during the Chairman Election arc, but does not detail the method involving coin attacks or Bungee Gum.",
+      "name": "Hisoka Morow (Hunter x Hunter)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 53,
+      "knowledge": "His name 'Subaru' means 'Pleiades', reflecting his deep connection to the constellation and its symbolism in the story.",
+      "evaluation": "partially supported",
+      "evidence": "The text mentions the Pleiades Battalion and his connection to the constellation, but not the meaning of his name.",
+      "name": "Subaru Natsuki (Re:ZERO -Starting Life in Another World-)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "He is a student, part-time waiter, and cram school lecturer.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he is a student at Minegahara High School, but does not mention his part-time jobs as a waiter or cram school lecturer.",
+      "name": "Sakuta Azusagawa (Rascal Does Not Dream of Bunny Girl Senpai)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "He is highly skilled in Kidō and can cast high-level spells without incantations.",
+      "evaluation": "partially supported",
+      "evidence": "The text says he is 'proficient in the use of Kidō spells' and an 'expert,' but does not specify casting without incantations.",
+      "name": "Toushirou Hitsugaya (Bleach)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "She cuts her signature ponytail upon returning to see Sorata, symbolizing her emotional growth and moving on from unrequited feelings.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she cuts her hair after Sorata rejects her, symbolizing a 'pivotal turn towards a new chapter,' but says she leaves Sakurasou afterward, not that she returns to see him at that time.",
+      "name": "Nanami Aoyama (The Pet Girl of Sakurasou)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "Sakura can create new magical cards from her emotions, such as The Nameless Card born from her feelings for Syaoran.",
+      "evaluation": "partially supported",
+      "evidence": "The text states the Clear Cards reflect her emotions and experiences, but does not mention 'The Nameless Card' or any specific card created from her feelings for Syaoran.",
+      "name": "Sakura Kinomoto (Cardcaptor Sakura)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "He created Reiatsu-concealing Gigai to help himself, Tessai, and the eight Hollowfied Shinigami escape to the Human World.",
+      "evaluation": "partially supported",
+      "evidence": "Text mentions he and Tessai escaped with Yoruichi's help and that he created gigai, but does not explicitly state they were Reiatsu-concealing or used for the eight Hollowfied Shinigami's escape.",
+      "name": "Kisuke Urahara (Bleach)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "He is the user of Chidori and its various advanced forms, including Chidori Sharp Spear and Chidori Senbon.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he masters Chidori and develops variations like Chidori Senbon, but does not mention Chidori Sharp Spear.",
+      "name": "Sasuke Uchiha (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "Through repeated drinking sessions with Kohei, Iori builds an exceptional tolerance for alcohol, becoming desensitized to drinks weaker than 96% alcohol.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms he developed high alcohol tolerance due to club activities, but does not specify drinking with Kohei or desensitization to drinks below 96%.",
+      "name": "Iori Kitahara (Grand Blue Dreaming)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Reki is Sin-bound, which is the reason for her black wings and her initial rejection by other Haibane.",
+      "evaluation": "partially supported",
+      "evidence": "The text confirms she is Sin-bound and that this caused her black wings and isolation, but does not explicitly mention 'initial rejection by other Haibane'—only later conflict with peers at the Abandoned Factory.",
+      "name": "Reki (Haibane Renmei)",
+      "type": "identity",
+      "human": null
+    }
+  ],
+  "irrelevant": [
+    {
+      "id": 37,
+      "knowledge": "He fought alongside Kagura, Gintoki, and Nobume against Utsuro but was forced to retreat, recognizing the enemy as unbeatable.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention a battle against Utsuro or retreating with Kagura, Gintoki, and Nobume.",
+      "name": "Sougo Okita (Gintama)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "He is resistant to extreme heat and cold, allowing him to endure powerful ice and fire attacks unharmed.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not depict or mention resistance to heat or cold.",
+      "name": "Hiei (Yu Yu Hakusho: The Movie)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "After merging with the Puppet Master, she gains advanced hacking abilities and can operate remotely from a satellite-based network.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention the Puppet Master or any such merger; this event has not occurred in this continuity yet.",
+      "name": "Motoko Kusanagi (Ghost in the Shell: Arise - Border:1 Ghost Pain)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She was targeted and opposed by Sachiko Juraku, the chairwoman of the Public Morals Committee.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Sachiko Juraku or any conflict with her.",
+      "name": "Mary Saotome (Kakegurui)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "She participated in a dodgeball match to confront bullies targeting Riko Saikawa and later competed against other dragons.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any dodgeball match or involvement with Riko Saikawa or competing against other dragons in such a context.",
+      "name": "Quetzalcoatl (Miss Kobayashi's Dragon Maid)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "Kite defeated and killed Yunju, a Chimera Ant squadron leader, by shooting him in the head with his carbine.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Yunju or any specific Chimera Ant squadron leader being killed by Kite with the carbine.",
+      "name": "Kite (Hunter x Hunter)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "After experiencing a world without the SOS Brigade, Kyon realizes he deeply values his time with Haruhi and the supernatural elements of his life.",
+      "evaluation": "irrelevant",
+      "evidence": "No exploration of Kyon's emotional valuation of the SOS Brigade or its absence.",
+      "name": "Kyon (Nyoron! Churuya-san)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "He is skilled and deeply engaged in playing video games, particularly first-person shooters and gacha-based mobile games.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention video games, FPS, or gacha games at all.",
+      "name": "Kyoutarou Ichikawa (The Dangers in My Heart)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "When off-duty with Company 1, she wears a modest outfit including a light dress, long-sleeved garment, leggings, and a headband.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not describe any off-duty outfit she wore while with Company 1.",
+      "name": "Tamaki Kotatsu (Fire Force)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 20,
+      "knowledge": "She helped Megumi Kato during a ritual but physically reprimanded her when she made a mistake.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any ritual or physical reprimand involving Megumi Kato.",
+      "name": "Utaha Kasumigaoka (Saekano: How to Raise a Boring Girlfriend)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "She shares a meaningful bond with Hotaru, a childhood friend, and offers her emotional support during personal struggles.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Hotaru or any childhood friendship with her.",
+      "name": "Tsukuyo (Gintama)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "She has basic cooking skills and regularly prepares meals for herself and her partner.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention cooking or meal preparation.",
+      "name": "Maka Albarn (Soul Eater)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "He visits his father's grave in Canada and shares his skateboarding experiences with him, symbolizing emotional closure and connection.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions his emotional connection to his father and a vision during the final race, but does not describe visiting a grave in Canada.",
+      "name": "Langa Hasegawa (SK8 the Infinity)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "She can enter a swift, ice-cloaked sprint form called Kamisato Art: Senho, enabling her to glide over water and apply Cryo to nearby enemies when she exits the sprint.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not reference Senho or any sprint form with elemental effects.",
+      "name": "Ayaka (Genshin Impact)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 38,
+      "knowledge": "He uncovered the truth behind a cursed village by using Heaven's Door and successfully saved his editor Kyoka Izumi from a deadly curse.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention a cursed village or saving Kyoka Izumi from a curse.",
+      "name": "Rohan Kishibe (JoJo's Bizarre Adventure: Diamond is Unbreakable)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "In his Restriction Form, Alucard appears in a white straitjacket with wild white hair, reflecting his imprisoned state before being freed by Integra.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention a white straitjacket or a specific 'Restriction Form' appearance.",
+      "name": "Alucard (Hellsing)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 47,
+      "knowledge": "As a demon, Mikaela becomes more reflective and articulate, carefully considering risks, motivations, and consequences.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not describe his thought process or articulation as a demon.",
+      "name": "Mikaela Hyakuya (Seraph of the End: Vampire Reign)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 52,
+      "knowledge": "His favorite manga are Naruto and One Piece, reflecting his interest in long-form, adventure-driven stories.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention his favorite manga or reading preferences.",
+      "name": "Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "He previously played for Seikoudai Junior High and later joined Karasuno High's volleyball team.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Seikoudai Junior High or any prior school affiliation.",
+      "name": "Asahi Azumane (HAIKYU!!)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 28,
+      "knowledge": "She devised a strategy involving fire and water pressure to defeat the Tsuchinoko cryptid.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not reference the Tsuchinoko or any such strategy.",
+      "name": "Momo Ayase (Dandadan)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "She dislikes eating raw fish.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her preferences regarding raw fish.",
+      "name": "Maka Albarn (Soul Eater)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "She discovered the 74th Floor boss with Kirito and nearly died attempting to save other players.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not reference the 74th Floor boss discovery or this specific event.",
+      "name": "Asuna Yuuki (Sword Art Online)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He served as the Führer's bodyguard during an inspection in the South and fought Roa, a chimera and former soldier who admired his past actions in Ishval.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention serving as the Führer's bodyguard or fighting Roa.",
+      "name": "Alex Louis Armstrong (Fullmetal Alchemist)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 35,
+      "knowledge": "She has a distinctive laugh 'Kihihihihi' and often says 'Ara, Ara' when amused.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions her 'fits of insane laughter' but does not specify the sound 'Kihihihihi' or the phrase 'Ara, Ara.'",
+      "name": "Kurumi Tokisaki (Date A Live)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 20,
+      "knowledge": "He has a low tolerance for alcohol, a trait he shares with his family.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention alcohol or his tolerance to it.",
+      "name": "Shuumei Sasaki (Sasaki and Miyano)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Maomao belongs to the La Clan, a family known for exceptional intellectual talent and socially eccentric behavior.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions her father Lakan is a brilliant strategist and she shares his intellect, but does not name the 'La Clan' or attribute broader familial traits to it.",
+      "name": "Maomao (The Apothecary Diaries)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "They agree to delay officially dating until after the Marriage Practical to avoid distractions from Jirō's academic goals.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any agreement to delay dating for academic reasons.",
+      "name": "Akari Watanabe (More Than a Married Couple, but Not Lovers.)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Suzuha's mother was assassinated by a Rounder agent, which motivated her to travel back in time to prevent the dystopian future.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention the assassination of her mother or a Rounder agent.",
+      "name": "Suzuha Amane (Steins;Gate)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "Ymir is physically strong and skilled in combat, capable of effectively using military equipment and weapons in human form.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not discuss her combat skills or use of weapons in human form.",
+      "name": "Ymir (Attack on Titan)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "After joining the Future Foundation, she wears her hair in a light ponytail with loose front strands and a dark jacket over a white blouse.",
+      "evaluation": "irrelevant",
+      "evidence": "The text only describes her Hope's Peak Academy outfit and does not mention any change in appearance after joining the Future Foundation.",
+      "name": "Kyouko Kirigiri (Danganronpa: The Animation)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "She sometimes initiates physical intimacy without Vanitas's consent, leading her to question whether she is overly aggressive or 'a bit of a pervert'.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not describe her initiating physical intimacy without consent or questioning her own behavior in this way.",
+      "name": "Jeanne (The Case Study of Vanitas)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "His deepest desire is to be loved and not die alone, revealing a vulnerable longing beneath his nihilistic exterior.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention a desire to be loved or fear of dying alone.",
+      "name": "Nagito Komaeda (Danganronpa 3: The End of Hope’s Peak High School - Despair Arc)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "She overcomes her initial hostility toward Shuu Tsukiyama and eventually rescues him, indicating a shift to a more tolerant and compassionate stance.",
+      "evaluation": "irrelevant",
+      "evidence": "The text notes Tsukiyama's observation of her change but does not mention her rescuing him.",
+      "name": "Touka Kirishima (Tokyo Ghoul)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "Ram can create potent illusions using wind magic and hallucinogenic scents derived from flowers, with the illusion being dispelled by destroying the source flower.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention illusion creation via flower scents or any such dispelling mechanism.",
+      "name": "Ram (Re:ZERO -Starting Life in Another World-)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She is an excellent cook, capable of preparing complex dishes like paella and teaching others how to cook.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her cooking skills or teaching others.",
+      "name": "Yukino Yukinoshita (My Teen Romantic Comedy SNAFU)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "Zhongli's damage output is significantly enhanced by his maximum HP, scaling across all his abilities including normal attacks, Elemental Skill, and Elemental Burst.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not discuss his damage scaling or gameplay mechanics.",
+      "name": "Zhongli (Genshin Impact)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 33,
+      "knowledge": "She has a notable interest and knowledge in astronomy, which she shares with Araragi during their stargazing dates.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention astronomy or stargazing as an interest or shared activity.",
+      "name": "Hitagi Senjougahara (Bakemonogatari)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "He is a highly accomplished practitioner of fūinjutsu, capable of analyzing and modifying complex seals like the Eight Trigrams Sealing Style.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention fūinjutsu or any specific sealing techniques such as the Eight Trigrams Sealing Style.",
+      "name": "Jiraiya (Naruto)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 35,
+      "knowledge": "She is modest and self-conscious about her appearance, especially during combat when her skirt might expose her.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any modesty or self-consciousness about her appearance during combat.",
+      "name": "Aira Shiratori (Dandadan)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "Renge prefers warm colors.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her color preferences.",
+      "name": "Renge Miyauchi (Non Non Biyori)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 14,
+      "knowledge": "He developed advanced hacking skills, enabling him to monitor police databases and secretly assist Team Bucciarati.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention hacking skills or monitoring police databases.",
+      "name": "Jean-Pierre Polnareff (JoJo's Bizarre Adventure)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "After taking Jonathan's body, he wears a distinctive outfit including a jacket, black tank top, chaps, a heart-shaped circlet, and pointed shoes.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions his final act was attempting to take Jonathan’s body on a ship that sank; it does not describe him successfully taking the body or wearing any such outfit.",
+      "name": "Dio Brando (JoJo no Kimyou na Bouken: Phantom Blood)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "Rudeus is unusually polite, which often surprises or unsettles others, especially those familiar with his father's reckless reputation.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention his level of politeness or how others react to it.",
+      "name": "Rudeus Greyrat (Mushoku Tensei: Jobless Reincarnation)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "When cosplaying as Liz-kyun, she changes her nail polish to black and wears olive green contact lenses.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention the Liz-kyun cosplay or associated changes.",
+      "name": "Marin Kitagawa (My Dress-Up Darling)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "After 10,000 years, Phosphophyllite becomes peaceful and selfless, wishing to disappear to protect the new lifeforms they encounter.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not describe Phos's state after 10,000 years or any selfless wish to disappear for others' protection.",
+      "name": "Phosphophyllite (Land of the Lustrous)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Despite being a setter, he demonstrates strong receiving and defensive capabilities when required.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not address his receiving or defensive skills.",
+      "name": "Tobio Kageyama (HAIKYU!!)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "He is an effective blocker due to his height and strength, capable of withstanding powerful spikes.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention his blocking abilities.",
+      "name": "Koutarou Bokuto (HAIKYU!! 2nd Season)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "He has an innate spiritual sensitivity, allowing him to sense Akito's presence at her conception and recognize her as the God of the Zodiac.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any ability to sense Akito at her conception or recognize her as God of the Zodiac at that time.",
+      "name": "Hatori Souma (Fruits Basket)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 36,
+      "knowledge": "Her deepest wish is to live alone with Issei on a deserted island, where they can freely express their love.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her wishing to live alone with Issei on a deserted island.",
+      "name": "Akeno Himejima (High School DxD)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "She carries the components of her Clima-Tact in a thigh strap with three slots, allowing for quick assembly in battle.",
+      "evaluation": "irrelevant",
+      "evidence": "The text describes the Clima-Tact and its evolution but does not mention a thigh strap with slots for carrying components.",
+      "name": "Nami (ONE PIECE)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He seeks emotional reconciliation with Asuna when he realizes he has hurt her feelings.",
+      "evaluation": "irrelevant",
+      "evidence": "While their relationship is described as strong and healing, no specific instance of him seeking reconciliation after hurting her feelings is mentioned in the provided text.",
+      "name": "Kirito (Sword Art Online)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Archer is a Servant class in the Holy Grail Wars that can be filled by a wide variety of heroic spirits from different eras and mythologies.",
+      "evaluation": "irrelevant",
+      "evidence": "The text focuses solely on one specific Archer (Shirou Emiya's future self) and does not mention the broader range of heroic spirits who can take on the Archer class.",
+      "name": "Archer (Carnival Phantasm)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "The Wretched Egg shows a degree of regard for Azami Midō, viewing her as a fellow 'trapped bird,' though still uses her death as a tool against Ganta.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Azami Midō or any regard the Wretched Egg has for her.",
+      "name": "Shiro (Deadman Wonderland)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 33,
+      "knowledge": "She can manifest flame-based wings to fly using the Dragon Wing technique.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention 'Dragon Wing' or flame-based wings for flight.",
+      "name": "Stella  Vermillion (Chivalry of a Failed Knight)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "Sung Jinwoo wields powerful weapons such as Kasaka's Venom Fang, Knight Killer, the Demon King's Daggers and Longsword, Kamish's Wrath, and Antares' Fangs.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not list any specific weapons he wields, including those mentioned in the knowledge.",
+      "name": "Jin-U Seong (Solo Leveling)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Shirou can reproduce any sword he has seen with full mastery of its use, though Noble Phantasms are one rank weaker and armor is extremely costly to project.",
+      "evaluation": "irrelevant",
+      "evidence": "The specifics of sword reproduction and limitations are not discussed.",
+      "name": "Shirou Emiya (Carnival Phantasm)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "She brainwashed and abused Mikan Tsumiki, treating her as a disposable tool despite Mikan's worshipful devotion.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Mikan Tsumiki.",
+      "name": "Junko Enoshima (Danganronpa: The Animation)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 36,
+      "knowledge": "He celebrates scoring in practice by taking off his shirt and spinning it over his head.",
+      "evaluation": "irrelevant",
+      "evidence": "This specific celebration is not mentioned in the text.",
+      "name": "Ryuunosuke Tanaka (HAIKYU!!)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "She follows a vegetarian diet for environmental reasons, aiming to reduce her carbon footprint.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her dietary habits or environmental concerns.",
+      "name": "Monika (Doki Doki Literature Club)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He uses a two-handed sword technique called Ryōdan that enables him to bisect even the strongest opponents.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions he fights one-handed and uses two hands for worthy opponents, but does not name the technique 'Ryōdan.'",
+      "name": "Kenpachi Zaraki (Bleach)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "After the timeskip, his appearance remains largely the same except for slightly longer hair.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any post-timeskip appearance changes such as hair length.",
+      "name": "Koushi Sugawara (HAIKYU!!)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "Toge Inumaki was ranked as a Grade 2 jujutsu sorcerer in 2017 and promoted to Semi-Grade 1 by 2018.",
+      "evaluation": "irrelevant",
+      "evidence": "The text confirms he is a semi-grade 1 sorcerer but does not mention his 2017 rank or promotion timeline.",
+      "name": "Toge Inumaki (Jujutsu Kaisen)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "Twelve enjoys eating curry and soba.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention his food preferences.",
+      "name": "Twelve (Terror in Resonance)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "She is a licensed driver of a Suzuki Jimny and holds a certification to operate heavy machinery, both of which she uses to support campsite restoration projects.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her driving a Suzuki Jimny, operating heavy machinery, or participating in campsite restoration projects.",
+      "name": "Nadeshiko Kagamihara (Laid-Back Camp)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 36,
+      "knowledge": "After battling Gildarts, he learned to understand and accept fear, helping him grow emotionally.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention a battle with Gildarts or learning about fear from it.",
+      "name": "Natsu Dragneel (Fairy Tail)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He graduated sixth in the 104th Training Corps.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention his class ranking in the Training Corps.",
+      "name": "Jean Kirstein (Attack on Titan)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 21,
+      "knowledge": "He is skilled in cooking, particularly in fast and precise vegetable preparation.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention cooking or vegetable preparation.",
+      "name": "Katsuki Bakugou (My Hero Academia)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "He possesses exceptional physical stamina and athleticism, demonstrated by chasing a moving bus and handling high-speed motorcycle chases.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention chasing a bus or motorcycle chases; no specific feats of stamina are described.",
+      "name": "Jousuke Higashikata (JoJo's Bizarre Adventure: Diamond is Unbreakable)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 33,
+      "knowledge": "She delivers the final blow to Rien by destroying her tanden after coordinating with Gabimaru and Shugen.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Rien or any final blow involving tanden destruction.",
+      "name": "Sagiri (Hell’s Paradise: Jigokuraku)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "Gen shares a close and mutually respectful relationship with Kaseki, often assisting and spending time with him.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any relationship between Gen and Kaseki.",
+      "name": "Gen Asagiri (Dr. STONE)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 43,
+      "knowledge": "In his past life, Cid studied various spiritual and philosophical systems, including Zen, Agama, and Abrahamic traditions, in pursuit of self-mastery.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions he researched magic and the occult but does not specify Zen, Agama, or Abrahamic traditions.",
+      "name": "Cid Kagenou (The Eminence in Shadow)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "She dislikes inattentiveness during conversations, especially when people use their phones.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her reaction to phone use or inattentiveness in conversations.",
+      "name": "Kurisu Makise (Steins;Gate)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Asa made a contract with the Aging Devil to escape Aging’s World, securing mutual non-aggression between them.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any interaction with the Aging Devil or a contract with them.",
+      "name": "Asa Mitaka (Chainsaw Man)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 36,
+      "knowledge": "Over time, she became more desensitized to killing enemy soldiers, but remained morally unable to harm civilians or children.",
+      "evaluation": "irrelevant",
+      "evidence": "The text discusses her combat skills and participation in battles but does not address her moral stance on harming civilians or children.",
+      "name": "Sasha Blouse (Attack on Titan)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "He is a skilled woodworker and luthier, handcrafting guitars and carving wooden statues in his workshop.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions he was a carpenter and had dreams of starting a business, but does not reference woodworking, luthiery, or carving statues.",
+      "name": "Joel Miller (The Last of Us)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "As a Spiral being, she can access infinite Spiral Power, enabling her to evolve, pilot powerful mechs, and affect reality in accordance with her will.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Spiral Power as an ability she personally channels or uses to affect reality; focus is on her skills and role, not metaphysical powers.",
+      "name": "Youko Littner (Gurren Lagann)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 6,
+      "knowledge": "He bears a forehead scar from Galuna Island and a cross-shaped scar on his abdomen from using Seven Slice Dance: Blood Version.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any scars on his forehead or abdomen.",
+      "name": "Gray Fullbuster (FAIRY TAIL OVA)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Mio contributes to the group's efforts to understand the shadow threat by suggesting they consult the island priest.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Mio suggesting to consult the island priest.",
+      "name": "Mio Kofune (Summertime Rendering)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "She lost her Spirit World Warrior license for defying orders during the Hollow Shadow incident, temporarily losing her livelihood.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her losing her license or the consequences for her livelihood.",
+      "name": "Mirai Kuriyama (Beyond the Boundary)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "His Elemental Burst creates a field called the Garden of Purity, where Bloomwater Blades rain down to deal Hydro damage and boost allies' normal attack damage.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not describe his Elemental Burst or any ability called Garden of Purity or Bloomwater Blades.",
+      "name": "Ayato (Genshin Impact)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "Yui is highly sensitive to temperature and copes by staying under the kotatsu in winter and lying on the floor in front of a fan during summer.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention her sensitivity to temperature or her habits with kotatsu or fans.",
+      "name": "Yui Hirasawa (K-ON!)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "He is nicknamed \\\"Sandal-Hat\\\" due to his distinctive hat and geta.",
+      "evaluation": "irrelevant",
+      "evidence": "Text describes his hat and geta but does not mention the nickname 'Sandal-Hat'.",
+      "name": "Kisuke Urahara (Bleach)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Kite has immense speed and reflexes, able to move so quickly that even skilled opponents cannot track him.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Kite's speed or reflexes in combat, only his aura and tracking ability.",
+      "name": "Kite (Hunter x Hunter)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 20,
+      "knowledge": "In the afterlife, Adam returns to his Golden Age—his physical and mental peak—granting him access to his full power and abilities.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Adam returning to a peak state in the afterlife; his power is shown during life and at death.",
+      "name": "Adam (Record of Ragnarok)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "As a child, Escanor's powers manifested during self-defense, causing his family to reject him and attempt to kill him before Rosa saved and set him adrift at sea.",
+      "evaluation": "irrelevant",
+      "evidence": "Childhood origin story is not covered in the film.",
+      "name": "Escanor (The Seven Deadly Sins the Movie: Prisoners of the Sky)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "He has blue eyes.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention eye color.",
+      "name": "Akito Yamada (My Love Story with Yamada-kun at Lv999)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "He is friends with the monk Biwamaru, who advises and saves him during life-threatening situations.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Biwamaru or any relationship with a monk.",
+      "name": "Dororo (Dororo)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She is known as 'Class Rep Ichinose' among her classmates.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention this specific nickname, though it affirms her role as class leader.",
+      "name": "Honami Ichinose (Classroom of the Elite)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "Tohka can use Ratelibish, an armor mode that fuses her throne to her body, significantly enhancing her combat strength by channeling the power of other Spirits.",
+      "evaluation": "irrelevant",
+      "evidence": "The term 'Ratelibish' and this specific armor mode are not mentioned in the text.",
+      "name": "Tooka Yatogami (Date A Live)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "She is a skilled cook and forager, able to identify edible and poisonous substances and prepare meals from wild ingredients.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention cooking or foraging skills.",
+      "name": "Esdeath (Akame ga Kill!)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "She first met Saiki Kusuo on her birthday and became intrigued by him after he disappeared mysteriously, sparking her interest.",
+      "evaluation": "irrelevant",
+      "evidence": "The text mentions her pursuit of Saiki begins due to his indifference, but does not specify their first meeting occurred on her birthday or involved a mysterious disappearance.",
+      "name": "Kokomi Teruhashi (The Disastrous Life of Saiki K.)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 21,
+      "knowledge": "Maki fought and defeated Tōru Kishiri during Company 8's infiltration of Special Fire Force Company 5.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any infiltration of Company 5 or a fight with Tōru Kishiri.",
+      "name": "Maki Oze (Fire Force)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "She was kidnapped by Kido Tsumiki, escaped from captivity using her strength, and defeated a synthetic Sasuke clone.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention any kidnapping by Kido Tsumiki or confrontation with a synthetic Sasuke clone.",
+      "name": "Sakura Haruno (Naruto)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "He has a strong aversion to cockroaches and spicy food, avoiding wasabi and similar condiments.",
+      "evaluation": "irrelevant",
+      "evidence": "No mention of cockroach aversion or dietary preferences like avoiding wasabi.",
+      "name": "Arataka Reigen (Mob Psycho 100)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 33,
+      "knowledge": "He carries Megumin's Charm, a protective item made from the hair of his party members that defends against curses.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention Megumin's Charm or any protective item made from party members' hair.",
+      "name": "Kazuma (KonoSuba)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "He temporarily aged his body using magic to confront a demon threat, revealing his true form to the public.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention him temporarily aging his body or revealing his true form to the public.",
+      "name": "Julius Novachrono (Black Clover)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "James Stark, a descendant of Tony Stark, becomes Iron Man in a future timeline.",
+      "evaluation": "irrelevant",
+      "evidence": "No mention of a descendant named James Stark becoming Iron Man.",
+      "name": "Iron Man (Marvel)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "She has a 'Solid' vocal mode that enhances clarity and vocal strength.",
+      "evaluation": "irrelevant",
+      "evidence": "No reference to a 'Solid' vocal mode is present.",
+      "name": "Miku Hatsune (Downloader)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "Despite his calm demeanor, his fanaticism can crack under pressure, revealing a desperate fear of failure and rejection of fate when it opposes his goals.",
+      "evaluation": "irrelevant",
+      "evidence": "The text portrays him as increasingly ruthless but does not show him cracking under pressure or rejecting fate; he remains convinced of his righteousness until the end.",
+      "name": "Enrico Pucci (JoJo's Bizarre Adventure Part 6: Stone Ocean)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "After transforming his heart into a Kaiju Core, Kafka evolved into a new hybrid form fueled by the accumulated negative emotions of ancient warriors, achieving immeasurable power.",
+      "evaluation": "irrelevant",
+      "evidence": "The text does not mention heart transformation or evolution fueled by ancient emotions.",
+      "name": "Kafka Hibino (Kaiju No.8)",
+      "type": "ability",
+      "human": null
+    }
+  ],
+  "contradicted": [
+    {
+      "id": 40,
+      "knowledge": "Hei struggled with the moral conflict of potentially having to kill his sister Bai during the Heaven's War, but his love for her prevented him from doing so.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Bai fused with Hei and vanished during the war, and there is no indication he ever considered or was required to kill her.",
+      "name": "Hei (Darker than Black)",
+      "type": "other",
+      "human": "irrelevant"
+    },
+    {
+      "id": 22,
+      "knowledge": "He initially aids Senku and Taiju after being revived, serving as their protector and provider.",
+      "evaluation": "contradicted",
+      "evidence": "The text states that Tsukasa and Senku are initially allies of necessity but does not say he protected or provided for Taiju; instead, he later opposes them ideologically.",
+      "name": "Tsukasa Shishiou (Dr. STONE)",
+      "type": "relationship",
+      "human": "partially supported"
+    },
+    {
+      "id": 18,
+      "knowledge": "He often lacks common sense, as shown when he tried to officially register his engagement with the government, unaware it was unnecessary.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention any attempt to register an engagement or lack of common sense related to legal procedures; this specific incident is absent.",
+      "name": "Rei Kiriyama (March Comes in Like a Lion)",
+      "type": "personality",
+      "human": "irrelevant"
+    },
+    {
+      "id": 21,
+      "knowledge": "He deeply admires an unnamed teenage boy who saved his life as a child, modeling his hairstyle and personal values after him.",
+      "evaluation": "contradicted",
+      "evidence": "The text states his admiration is inherited from Josefumi, who was saved by Holy Joestar-Kira and her son, but Jousuke himself has no memory of this and does not model his appearance after a teenage savior.",
+      "name": "Jousuke Higashikata (JoJo no Kimyou na Bouken: JoJolion)",
+      "type": "relationship",
+      "human": "contradicted"
+    },
+    {
+      "id": 9,
+      "knowledge": "She can use the Force to survive in the vacuum of space and propel herself through it.",
+      "evaluation": "contradicted",
+      "evidence": "The text makes no mention of this ability, and such a feat is not canonically attributed to Leia; this contradicts known lore.",
+      "name": "Princess Leia (Star Wars)",
+      "type": "ability",
+      "human": "irrelevant"
+    },
+    {
+      "id": 2,
+      "knowledge": "Haruhi is driven by a desire for an extraordinary life and thrives on attention, novelty, and excitement, often disregarding social norms to combat boredom.",
+      "evaluation": "contradicted",
+      "evidence": "The text states her 'canonical energetic, eccentric, and god-like unawareness is stripped away' and that her motivations are now 'mundane' rather than grand or extraordinary.",
+      "name": "Haruhi Suzumiya (Nyoron! Churuya-san)",
+      "type": "personality",
+      "human": "contradicted"
+    },
+    {
+      "id": 28,
+      "knowledge": "His first mystery solved for the club involved discovering why Eru was locked in the clubroom, which led to his official membership.",
+      "evaluation": "contradicted",
+      "evidence": "The text states his first major mystery was the 'Hyouka' anthology, not being locked in the clubroom with Eru.",
+      "name": "Houtarou Oreki (Hyouka)",
+      "type": "experience",
+      "human": "contradicted"
+    },
+    {
+      "id": 31,
+      "knowledge": "He defeated Juzo Honenuki in the Joint Training Battle by using enhanced speed techniques taught by his brother.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he fought in the Joint Training Arc against Class 1-B, but does not mention Juzo Honenuki (a Class 1-A student); the battle described is inter-class, not against Juzo.",
+      "name": "Tenya Iida (My Hero Academia)",
+      "type": "experience",
+      "human": "irrelevant"
+    },
+    {
+      "id": 32,
+      "knowledge": "She was attacked by Zouken Matou, resulting in Berserker's defeat and corruption into Sakura's Servant.",
+      "evaluation": "contradicted",
+      "evidence": "In this version, Berserker remains under Illya's control and is not corrupted or defeated by Zouken.",
+      "name": "Illyasviel von Einzbern (Carnival Phantasm)",
+      "type": "experience",
+      "human": "contradicted"
+    },
+    {
+      "id": 25,
+      "knowledge": "She lives with Kawajiri, who mentors her in mastering her magic and overcoming her fears.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she relocated to the Hole and runs her restaurant there, while Kawajiri became Asu and remained in the sorcerer world; no indication they live together.",
+      "name": "Nikaido (Dorohedoro)",
+      "type": "relationship",
+      "human": "irrelevant"
+    },
+    {
+      "id": 6,
+      "knowledge": "Satō's clothing resembles the outfit of Mario, reflecting his passion for video games.",
+      "evaluation": "contradicted",
+      "evidence": "The text refers to his signature flat cap and does not describe his clothing as resembling Mario; instead, it associates his video game passion with worldview, not attire.",
+      "name": "Satou (AJIN: Demi-Human)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 41,
+      "knowledge": "He was summoned in the Fourth Holy Grail War, switched allegiance to Kirei Kotomine, and survived the war with a physical body.",
+      "evaluation": "contradicted",
+      "evidence": "He is shown serving Caren in a different context, not Kirei, and no survival with a physical body is implied.",
+      "name": "Gilgamesh (Carnival Phantasm)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "After the survival test, she publicly acknowledged Kiyotaka's contributions and expressed gratitude, marking a shift in her willingness to recognize others' value.",
+      "evaluation": "contradicted",
+      "evidence": "The text says Ayanokōji changed her role secretly and she received public credit, implying she did not publicly acknowledge his contribution; no mention of gratitude being expressed.",
+      "name": "Suzune Horikita (Classroom of the Elite)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "She is the mother of Morgan Jenkins.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions Michael Fisher and Markl as Howl's apprentice but makes no mention of Morgan Jenkins; instead, it refers to Martha as the sister Michael loves, implying Morgan is not part of this version's narrative.",
+      "name": "Sophie Hatter (Howl‘s Moving Castle)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "Yuuko owns a cat named Chissan.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she lives with her mother and a cat, but does not name the cat; however, it refers to Sakamoto as the talking cat, implying Chissan is not mentioned and possibly not existing in this portrayal.",
+      "name": "Yuuko Aioi (Nichijou - My Ordinary Life)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "Misa Amane was born on Christmas Day and died on Valentine's Day, symbolically linking her life and death to themes of love and sacrifice.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention her birth or death dates; the symbolic link to Christmas and Valentine's Day is not supported and appears to be non-canonical.",
+      "name": "Misa Amane (Death Note)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She has grey hair with a red underside and cyan eyes, giving her a distinctive and striking appearance.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes her hair as \"long, flowing silver\" and eyes as \"piercing blue-green\", not grey with red underside or cyan.",
+      "name": "Unmei (takt op.Destiny)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "In the future timeline, Misa Amane regains her memories, helps Shien escape by killing Task Force members, and then commits suicide by writing her own death, arranging to die in Light Yagami's arms.",
+      "evaluation": "contradicted",
+      "evidence": "The text states her fate is suicide after learning of Light's death, but does not mention regaining memories to help 'Shien' (a non-canon character), killing Task Force members, or dying in Light's arms—this appears to be from a non-canon adaptation.",
+      "name": "Misa Amane (Death Note)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "He confronted and defeated the leader of the player-killing guild Titan's Hand to bring them to justice for murdering innocent players.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions Laughing Coffin as the player-killing guild in SAO, not Titan's Hand, and no confrontation with a guild by that name is referenced.",
+      "name": "Kazuto Kirigaya (Sword Art Online)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "She maintained a fake relationship with Futaro Uesugi while concealing her true identity from him.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she concealed their past encounter but does not describe a fake relationship; instead, her feelings were genuine and she supported him truthfully, culminating in a real relationship.",
+      "name": "Yotsuba Nakano (The Quintessential Quintuplets)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 34,
+      "knowledge": "Playing beach volleyball with Hinata helped him rediscover the pure joy of the game during a period of emotional fatigue.",
+      "evaluation": "contradicted",
+      "evidence": "The text states they meet in Brazil and form a friendship, but it was Oikawa who went to Brazil professionally; Hinata went to train in Germany, and their beach volleyball interaction is not mentioned.",
+      "name": "Tooru Oikawa (HAIKYU!!)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 21,
+      "knowledge": "She has killed Madoka Kaname at Madoka's own request to reset the timeline and prevent others from suffering.",
+      "evaluation": "contradicted",
+      "evidence": "The text never states that Homura killed Madoka; instead, Madoka made her wish and transcended before dying in battle. Homura did not kill her at her request.",
+      "name": "Homura Akemi (Puella Magi Madoka Magica)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "He creatively exploits Crazy Diamond’s restoration ability to break and rebuild objects for tactical advantage, allowing him to manipulate the environment without lasting damage.",
+      "evaluation": "contradicted",
+      "evidence": "His Stand is Soft & Wet, which steals properties, not a restoration ability like Crazy Diamond.",
+      "name": "Jousuke Higashikata (JoJo no Kimyou na Bouken: JoJolion)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 7,
+      "knowledge": "Her Shinsu manifests in red, reflecting her dominant energy form.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she uses 'green Shinsu bubbles' as a unique technique, indicating her Shinsu manifests in green, not red.",
+      "name": "Yuri Ha Jahad (Tower of God)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "At age four, her mother became mentally unstable after an Evangelion experiment and later committed suicide, which Asuka discovered firsthand, deeply traumatizing her.",
+      "evaluation": "contradicted",
+      "evidence": "The text states that in the *Rebuild* series, her use of a hand puppet suggests a different backstory where she does not despise dolls, contradicting the original trauma involving her mother.",
+      "name": "Asuka Langley Souryuu (Evangelion: 2.0 You Can (Not) Advance)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "Years of abuse caused her to become emotionally withdrawn and resigned to suffering.",
+      "evaluation": "contradicted",
+      "evidence": "The text portrays her 'suffering' as a deliberate, performative choice for dramatic effect, not a result of real abuse or emotional resignation.",
+      "name": "Sakura Matou (Carnival Phantasm)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "Luke Skywalker was a highly skilled lightsaber duelist, capable of defeating Darth Vader in combat.",
+      "evaluation": "contradicted",
+      "evidence": "The text states that Luke gave in to rage but ultimately refused to kill Vader, and it was Vader who killed the Emperor—Luke did not defeat Vader in combat.",
+      "name": "Luke Skywalker (Star Wars)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "Annie participated in Marco Bott's death by removing his gear, later expressing guilt by apologizing to his corpse.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she shows remorse over Marco Bott's death, but attributes it to 'sparring with Eren' and does not mention her removing his gear or apologizing to his corpse.",
+      "name": "Annie Leonhart (Attack on Titan)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She uses an Arasaka Exoglove, a piece of cyberware that enhances her manual precision during surgeries.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes her cyberware as including a monowire and netrunning capabilities, but makes no mention of an Exoglove; she is not portrayed as performing surgeries.",
+      "name": "Lucy (Cyberpunk: Edgerunners)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "He initially feels awkward about his biological father Joseph Joestar but gradually develops respect and acceptance through Joseph’s actions.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he is a fusion of Josefumi Kujo and Yoshikage Kira, not the son of Joseph Joestar.",
+      "name": "Jousuke Higashikata (JoJo no Kimyou na Bouken: JoJolion)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "Ein is a Cardigan Welsh Corgi with the breed's distinctive physical appearance.",
+      "evaluation": "contradicted",
+      "evidence": "The text explicitly identifies Ein as a 'Pembroke Welsh Corgi,' not a Cardigan Welsh Corgi.",
+      "name": "Ein (Cowboy Bebop)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "In an alternate timeline, Hiroto marries Naho Takamiya and they have a child together who resembles Naho.",
+      "evaluation": "contradicted",
+      "evidence": "The text clarifies that in the original (not alternate) timeline, Hiroto marries Naho and they have a son. The alternate, corrected timeline is the one where Kakeru survives and is with Naho, meaning Hiroto does not marry her. Thus, the marriage and child occur in the original timeline, not an alternate one, contradicting the knowledge statement.",
+      "name": "Hiroto Suwa (Orange)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "She can transform into a high-speed vehicle to escape pursuit.",
+      "evaluation": "contradicted",
+      "evidence": "There is no mention of her transforming into a vehicle; her abilities are symbolic and spiritual, not mechanical or physical transformation.",
+      "name": "Utena Tenjou (Revolutionary Girl Utena)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She has two distinct ahoge shaped like the letter 'M', a trait inherited from both of her parents.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes her ahoge as 'long hair strands that protrude from the sides of her head' but does not mention the 'M' shape or inheritance; more importantly, it makes no reference to both parents having this trait, and the description diverges from the specific 'M' shape, suggesting a different interpretation.",
+      "name": "Nagisa Furukawa (Clannad)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He holds the position of Deputy President in the Tokyo Manji Gang.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he was made 'Captain of the First Division' and 'Second Generation President', not Deputy President.",
+      "name": "Takemichi Hanagaki (Tokyo Revengers)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "When dissatisfied with reality, Haruhi once created an alternate world, which Kyon reversed by convincing her to restore the original world through a kiss.",
+      "evaluation": "contradicted",
+      "evidence": "She does not create alternate worlds in this series; her dissatisfaction with reality is not depicted, and the world remains static and mundane.",
+      "name": "Haruhi Suzumiya (Nyoron! Churuya-san)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 1,
+      "knowledge": "He is currently the Student Council Vice President at Shuchi'in Academy and previously served as the Treasurer.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he is the student council treasurer, not Vice President, and does not mention a promotion.",
+      "name": "Yuu Ishigami (Kaguya-sama: Love is War)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "Fubuki holds the rank of A-Class: Rank 5 in the Hero Association, previously being B-Class: Rank 1.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she is 'B-Class Rank 1' and makes no mention of her being A-Class, contradicting the claim of A-Class: Rank 5.",
+      "name": "Fubuki (One-Punch Man)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Shigure is the father of Shiki Sohma, who remembers him fondly despite finding him teasing and immature.",
+      "evaluation": "contradicted",
+      "evidence": "The text makes no mention of Shiki Sohma; instead, it presents Shigure as childless and focused on manipulating events around Akito and the main characters.",
+      "name": "Shigure Souma (Fruits Basket)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "His upgraded hero costume, redesigned by Mei Hatsume, features a sleeker helmet, sharper chestplate, shoulder spikes, a back plate, and streamlined leg armor.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions Mei Hatsume tricked him during the Sports Festival to advertise her inventions, but does not state she redesigned his hero costume; his described costume is standard, not upgraded by her.",
+      "name": "Tenya Iida (My Hero Academia)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "He respects Kirei Kotomine as a rare human worthy of his attention and willingly serves as his Servant.",
+      "evaluation": "contradicted",
+      "evidence": "He serves Caren Hortensia (not Kirei), and it's implied he regressed to child form to escape her control, not out of respect.",
+      "name": "Gilgamesh (Carnival Phantasm)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "He is the only demon to have mastered the Dragon of the Darkness Flame, a technique that summons a destructive black dragon from demonic fire.",
+      "evaluation": "contradicted",
+      "evidence": "The text clearly states he does not use the Dragon of the Darkness Flame in this film, and given it's early timeline, mastery is not shown.",
+      "name": "Hiei (Yu Yu Hakusho: The Movie)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "Fubuki believes her advancement to the top of A-Class is blocked by Sweet Mask's hold on Rank 1.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she fears not being able to guarantee the number one spot in A-Class due to 'Amai Mask', not Sweet Mask.",
+      "name": "Fubuki (One-Punch Man)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "She has become a full Devil, with her mask permanently fused to her head.",
+      "evaluation": "contradicted",
+      "evidence": "The text never states she has become a full Devil or that a mask is fused to her head; her transformation is described as partial and ongoing, not complete.",
+      "name": "Nikaido (Dorohedoro)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 28,
+      "knowledge": "His battle with the One-Eyed Owl during the suppression operation was a staged performance, allowing Eto and Yoshimura to escape as part of a secret plan.",
+      "evaluation": "contradicted",
+      "evidence": "The text says Arima defeated Yoshimura and harvested his kakuhou, implying a real victory, not a staged escape for Eto and Yoshimura during that operation.",
+      "name": "Kishou Arima (Tokyo Ghoul)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 34,
+      "knowledge": "Yuji wears cursed gauntlets given by Yuta Okkotsu to conceal his missing fingers and hide the fact that Yuta copied Sukuna's technique.",
+      "evaluation": "contradicted",
+      "evidence": "Text does not mention missing fingers or gauntlets; contradicts by implying full fingers are present.",
+      "name": "Yuji Itadori (Jujutsu Kaisen)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 30,
+      "knowledge": "After being regurgitated by Roy Alphard, Rem regains her original memories and reverts to her former self, calling Subaru 'Subaru-kun' once more.",
+      "evaluation": "contradicted",
+      "evidence": "The text makes no mention of Roy Alphard or memory restoration; instead, it presents her amnesia as ongoing in Arc 7, with no recovery noted.",
+      "name": "Rem (Re:Zero)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "She supports Kaede's return to normal life by arranging a haircut before her school re-enrollment.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention Kaede, let alone any involvement in her haircut or re-enrollment, and this detail conflicts with the narrative focus on Shoko instead.",
+      "name": "Mai Sakurajima (Bunny Girl Senpai)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 19,
+      "knowledge": "Her loyalty to Rudeus and their children surpasses all other obligations, even those to Princess Ariel.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she admitted her loyalty to Ariel was so strong she might have refused an early marriage proposal from Rudeus, implying Ariel was a competing priority.",
+      "name": "Sylphiette (Mushoku Tensei: Jobless Reincarnation)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "Crazy Diamond cannot revive the dead or heal Josuke directly, as it cannot affect anything currently part of his body or self.",
+      "evaluation": "contradicted",
+      "evidence": "His Stand is Soft & Wet, not Crazy Diamond, so the limitation on healing does not apply to this character as described.",
+      "name": "Jousuke Higashikata (JoJo no Kimyou na Bouken: JoJolion)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He was ultimately killed in a final gunfight with Johnny Joestar after being weakened by Tusk ACT4's dimensional disruption.",
+      "evaluation": "contradicted",
+      "evidence": "The text implies his plan fails and he is defeated, but does not state he was killed; instead, it focuses on his final act and philosophical defeat, not a gunfight death.",
+      "name": "Funny Valentine (JoJo's Bizarre Adventure: Part 7–Steel Ball Run)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 40,
+      "knowledge": "Adam shows mercy when appropriate, as seen when he paused his assault upon believing Zeus was about to surrender.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention Adam pausing his attack or showing mercy; the fight ends with both exchanging blows until Adam dies.",
+      "name": "Adam (Record of Ragnarok)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "She wears a lavish yet chaste pure white dress as part of her ceremonial attire.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes her usual attire as a simple dress with custom-fitted armor and a metal headpiece, not a lavish white ceremonial dress.",
+      "name": "Jeanne  d'Arc (Fate/Apocrypha)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Tomoe was emotionally distressed by a rumor labeling her as promiscuous, and Sakuta defended her by physically confronting Maezawa.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention any rumor about promiscuity or a physical confrontation between Sakuta and Maezawa; instead, Maezawa's confession is portrayed respectfully, and Sakuta's involvement is through the fake relationship, not violence.",
+      "name": "Tomoe Koga (Rascal Does Not Dream of Bunny Girl Senpai)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "Shigure had a prophetic dream of Akito before her birth, which deeply moved him and marked the beginning of his emotional bond with her.",
+      "evaluation": "contradicted",
+      "evidence": "The text states his bond with Akito began the moment she was born, not before, and does not mention any dream prior to her birth.",
+      "name": "Shigure Souma (Fruits Basket)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "She is close friends with Mano and offers her relationship advice, often drawing from her own experiences with Nishikata.",
+      "evaluation": "contradicted",
+      "evidence": "The text lists her friends as Mina, Yukari, and Sanae, but does not mention Mano.",
+      "name": "Takagi (Teasing Master Takagi-san)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "She desires an obedient human subject, suggesting a fascination with control and experimentation.",
+      "evaluation": "contradicted",
+      "evidence": "The text emphasizes her trauma from being used as a tool and her desire to protect life; there is no indication she seeks to control or experiment on others.",
+      "name": "Akiko Yosano (Bungo Stray Dogs)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 38,
+      "knowledge": "Yuji is fiercely determined to kill Sukuna and free Megumi after Sukuna took over his friend's body.",
+      "evaluation": "contradicted",
+      "evidence": "Text does not mention Sukuna taking over Megumi's body; instead, it describes Yuji's resolve to stop Sukuna generally.",
+      "name": "Yuji Itadori (Jujutsu Kaisen)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 22,
+      "knowledge": "She respects Megumin's magical strength but criticizes her for inefficient spellcasting and insists on faster incantations.",
+      "evaluation": "contradicted",
+      "evidence": "Megumin is from *KonoSuba*; the text does not reference her, and there is no support for this interaction, contradicting the knowledge.",
+      "name": "Tanya Degurechaff (Saga of Tanya the Evil)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "He was stabbed by Jinnai Yodogiri as punishment for interfering with his plans, leaving him critically injured.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he was severely injured in a final confrontation with Shizuo Heiwajima, not by Jinnai Yodogiri.",
+      "name": "Izaya Orihara (Durarara!!)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "Griffith has silver hair and blue eyes.",
+      "evaluation": "contradicted",
+      "evidence": "Text describes his hair as 'long, flowing white' and not silver, though it does confirm he has 'striking blue eyes'.",
+      "name": "Griffith (Berserk)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "He was formerly affiliated with the Demon Slayer Corps.",
+      "evaluation": "contradicted",
+      "evidence": "The text confirms he is currently serving in the Corps, not formerly affiliated.",
+      "name": "Zenitsu Agatsuma (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "She sacrifices the Shiny Rod to restore magic to the world, causing it to vanish into the stars.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she unlocks the Grand Triskellion and saves the world using the Shiny Rod, but it does not mention her sacrificing it or it vanishing into the stars. The Rod's fate is not described, making this claim unsupported and conflicting with the implied continued use.",
+      "name": "Atsuko Kagari (Little Witch Academia)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "Belaf transfers his memories and value to Nanachi, recognizing the depth and purity of Nanachi's bond with Mitty.",
+      "evaluation": "contradicted",
+      "evidence": "Belaf is not mentioned in the text; instead, Bondrewd is the antagonist. The transfer of memories and recognition by Belaf is not supported and conflicts with the narrative presented.",
+      "name": "Nanachi (Made in Abyss)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 4,
+      "knowledge": "He operates as a solo mercenary, specializing in high-risk combat and infiltration missions.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes him as part of a crew and emphasizes teamwork; he leads a crew rather than operating solo.",
+      "name": "David Martinez (Cyberpunk: Edgerunners)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Michiru Ichijou has developed a strong romantic attachment to Miko, who remains unaware of the depth of Michiru's feelings despite accepting her as a close friend.",
+      "evaluation": "contradicted",
+      "evidence": "Michiru Ichijou is not mentioned in the text, and there is no reference to a romantic attachment toward Miko.",
+      "name": "Miko Yotsuya (Mieruko-chan)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 32,
+      "knowledge": "Kite's gender identity after rebirth is ambiguous, as he uses both masculine and feminine pronouns depending on context and relationship.",
+      "evaluation": "contradicted",
+      "evidence": "The text consistently refers to reborn Kite using female pronouns ('she', 'her') and describes the form as female, with no mention of ambiguous pronoun usage.",
+      "name": "Kite (Hunter x Hunter)",
+      "type": "other",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "She is currently serving a probationary military assignment in an uncharted area, which she views as a form of unjust punishment from her father Zahard.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she was captured and imprisoned by Jahad's forces, not serving a probationary assignment, indicating her current status is incarceration, not active duty.",
+      "name": "Yuri Ha Jahad (Tower of God)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "Gohan leads a new generation of fighters under the Great Saiyaman identity to protect Earth from the Frieza Force invasion.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Gohan is not active as Great Saiyaman in GT and does not lead fighters against the Frieza Force (which is not a threat in GT).",
+      "name": "Gohan Son (Dragon Ball GT)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She is affiliated with Ichigo Production, Inc.",
+      "evaluation": "contradicted",
+      "evidence": "The text explicitly states she is raised and supported by 'Strawberry Productions', not Ichigo Production, and forms B-Komachi under that agency.",
+      "name": "Ruby Hoshino ([Oshi no Ko])",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 12,
+      "knowledge": "Haruhi can unconsciously split and recombine realities, and has manifested parts of her subconscious as physical entities, such as Yasumi Watahashi.",
+      "evaluation": "contradicted",
+      "evidence": "The text presents no evidence of reality-splitting or manifestation of subconscious entities; the world operates without supernatural interference.",
+      "name": "Haruhi Suzumiya (Nyoron! Churuya-san)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "He was ultimately defeated by Weather Report, manipulated by Emporio Alniño, and killed just after recreating the universe.",
+      "evaluation": "contradicted",
+      "evidence": "The text says he was defeated by Emporio Alniño using Weather Report's Stand ability, not by Weather Report himself, who had already died.",
+      "name": "Enrico Pucci (JoJo's Bizarre Adventure Part 6: Stone Ocean)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 13,
+      "knowledge": "Hizuru was consumed by a shadow after shooting Shinpei in the head to enable his time loop reset.",
+      "evaluation": "contradicted",
+      "evidence": "The text states that in the reset timeline, Hizuru is alive and well, implying she did not remain consumed—her death and consumption were part of a loop that was ultimately undone.",
+      "name": "Hizuru Minakata (Summertime Rendering)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 18,
+      "knowledge": "After death, he is resurrected with an incomplete Code, regains his memories through C's World, and returns to life to rescue Nunnally and continue protecting the world.",
+      "evaluation": "contradicted",
+      "evidence": "The text presents his death as final and does not mention resurrection, regaining memories via C's World, or returning to life.",
+      "name": "Lelouch Lamperouge (Code Geass: Lelouch of the Rebellion)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 11,
+      "knowledge": "He saved Kōji Ishida using money stolen from his former allies, showing a sense of loyalty despite betrayal.",
+      "evaluation": "contradicted",
+      "evidence": "The text states that Kouji Ishida suffers a tragic fate during the Human Derby, implying he did not survive to be saved—contradicting the claim that Kaiji saved him.",
+      "name": "Kaiji Itou (Kaiji - Against All Rules)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 27,
+      "knowledge": "After failing to save his grandfather from death, he vows to protect Morioh from Stand-related threats as a way to honor his memory.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not mention a grandfather's death or such a vow; his motivation is to uncover his identity and save Holy, not protect Morioh due to a grandfather’s death.",
+      "name": "Jousuke Higashikata (JoJo no Kimyou na Bouken: JoJolion)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 23,
+      "knowledge": "He survived a plane crash that killed everyone else, leaving him stranded alone on a deserted island.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes a plane hijacking followed by a meteorite strike, not a crash where he was the sole survivor; he was not left alone on a deserted island.",
+      "name": "Nagito Komaeda (Danganronpa 3: The End of Hope’s Peak High School - Despair Arc)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 34,
+      "knowledge": "He adheres to the rule against intra-family killing and is willing to die to protect the Zoldyck family as a whole.",
+      "evaluation": "contradicted",
+      "evidence": "The text explicitly states he is willing to kill Alluka despite the family rule against intra-family killing, showing he does not adhere to it universally.",
+      "name": "Illumi Zoldyck (Hunter x Hunter (2011))",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "Xianyun enhances her team's gliding speed by 15% while she is alive and in the active party.",
+      "evaluation": "contradicted",
+      "evidence": "The text makes no mention of gliding speed enhancement; instead, it describes enhanced jump height and plunging attack capabilities via the Starwicker, which contradicts the specific claim about gliding speed.",
+      "name": "Xianyun (Genshin Impact)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 21,
+      "knowledge": "Her efforts to repair Koyomi and Hitagi's relationship were deeply personal, and their second breakup caused her significant emotional pain and estranged her from Koyomi.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not describe her making any efforts to repair Koyomi and Hitagi's relationship; her arc centers on confronting her own trauma, not their romantic issues.",
+      "name": "Sodachi Oikura (Owarimonogatari)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 25,
+      "knowledge": "Frieren can use powerful sealing magic, demonstrated when she petrified the demon Qual, with the seal lasting for eighty years.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Qual was sealed by the Hero's Party, not by Frieren personally.",
+      "name": "Frieren (Frieren: Beyond Journey’s End)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 37,
+      "knowledge": "She mastered her time magic and traveled back in time with Kawajiri to save her sister Yakumo from drowning.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Yakumo's death was caused by time travel and could not be undone; it does not mention a successful rescue with Kawajiri.",
+      "name": "Nikaido (Dorohedoro)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 26,
+      "knowledge": "His final words express unconditional love for his brother, calling him the nicest person in the world and thanking him.",
+      "evaluation": "contradicted",
+      "evidence": "The text states his final words were: 'he only ever wanted to protect him,' which shows love, but does not include calling Sanemi 'the nicest person in the world' or thanking him. Since the specific claim is not supported and contradicts the documented last words, it is contradicted.",
+      "name": "Genya Shinazugawa (Demon Slayer: Kimetsu no Yaiba)",
+      "type": "personality",
+      "human": null
+    },
+    {
+      "id": 10,
+      "knowledge": "Her body underwent a transformation into a full Devil form, developing a heavily muscular build and male anatomy while retaining her original head.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes physical and psychological changes from devil training but does not mention transformation into a full Devil form with male anatomy; it only notes she takes on 'devil-like characteristics' without specifying anatomical changes.",
+      "name": "Nikaido (Dorohedoro)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "She is a Repli-Compoid, an artificial human created by Akane based on her own likeness but enhanced for greater beauty.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Rikka was created by Akane, but describes her as a 'bug' in the system influenced by the Junk computer, not an artificial human modeled after Akane's likeness for enhanced beauty. Her design contrast with Akane is emphasized, and no mention is made of her being a Repli-Compoid or physically enhanced for beauty.",
+      "name": "Rikka Takarada (SSSS.GRIDMAN)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "He is one of the most skilled swordsmen in the Shinsengumi, second only to Hijikata in ability.",
+      "evaluation": "contradicted",
+      "evidence": "The text states he is 'widely considered the strongest fighter within the Shinsengumi,' contradicting the claim that he is second to Hijikata.",
+      "name": "Sougo Okita (Gintama)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 2,
+      "knowledge": "She works part-time at The Grand Blue Cafe.",
+      "evaluation": "contradicted",
+      "evidence": "The text says she gets a part-time job at the cafe-bar 'Rockin' Robin', not The Grand Blue Cafe.",
+      "name": "Yuki Itose (A Sign of Affection)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 3,
+      "knowledge": "She is a former student of U.A. High School.",
+      "evaluation": "contradicted",
+      "evidence": "The text repeatedly refers to her as a current student in Class 1-A at U.A. High School, indicating she has not yet graduated.",
+      "name": "Kyouka Jirou (My Hero Academia)",
+      "type": "identity",
+      "human": null
+    },
+    {
+      "id": 15,
+      "knowledge": "Her eyes are deep crimson in color.",
+      "evaluation": "contradicted",
+      "evidence": "The text explicitly states her eyes are 'large, hot-pink eyes', which contradicts deep crimson.",
+      "name": "Shuna (That Time I Got Reincarnated as a Slime)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 29,
+      "knowledge": "He outsmarts and defeats Shigechi during a conflict over money, later reconciling and maintaining a friendship with him.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Shigechi is murdered by Kira, not defeated by Josuke; there is no reconciliation between them.",
+      "name": "Josuke Higashikata (JoJo's Bizarre Adventure)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 34,
+      "knowledge": "She is the first VOCALOID to perform at the Coachella music festival.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions her opening for Lady Gaga on tour and performing at MIKU EXPO, but does not state she performed at Coachella; more importantly, in reality, she has not performed at Coachella, and the text does not support this claim.",
+      "name": "Miku Hatsune (Downloader)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "He shares a strong platonic bond with Nezuko, whom he respects and treats like a mother figure.",
+      "evaluation": "contradicted",
+      "evidence": "The text describes his bond with Aoi Kanzaki as maternal/romantic and shows no indication he treats Nezuko as a mother figure.",
+      "name": "Inosuke Hashibira (Demon Slayer)",
+      "type": "relationship",
+      "human": null
+    },
+    {
+      "id": 9,
+      "knowledge": "He was the fastest runner on the track club during his time in middle school.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions he had a more athletic build in middle school but does not say he was in the track club or the fastest runner; instead, he runs in the relay at the sports festival as a cheerleader, not as a former track star.",
+      "name": "Yuu Ishigami (Kaguya-sama: Love is War)",
+      "type": "ability",
+      "human": null
+    },
+    {
+      "id": 31,
+      "knowledge": "He won the U.A. Sports Festival by defeating both Fumikage Tokoyami and Shoto Todoroki.",
+      "evaluation": "contradicted",
+      "evidence": "The text does not state he won the Sports Festival; it only mentions his fight with Uraraka, implying he did not win overall.",
+      "name": "Katsuki Bakugou (My Hero Academia)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 16,
+      "knowledge": "He allowed Lucy Steel, disguised as his wife, to live with him in order to secretly extract the Saint's Corpse parts from her body.",
+      "evaluation": "contradicted",
+      "evidence": "The text states Lucy is the wife of Steven Steel, not disguised as Valentine's wife, and Valentine forces her to fuse with the Corpse rather than extract parts from her.",
+      "name": "Funny Valentine (JoJo's Bizarre Adventure: Part 7–Steel Ball Run)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "Kumiko is elected band president, taking on leadership responsibilities in her second year.",
+      "evaluation": "contradicted",
+      "evidence": "The text clearly states she is appointed band president in her final (third) year, not her second year.",
+      "name": "Kumiko Oumae (Sound! Euphonium)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 5,
+      "knowledge": "Upon arrival at Quindecim, she wore a red sweater, blue jeans, and black high heels, and her sleepwear is a light yellow or white night dress.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she arrived wearing a 'brown sweater and rolled-up trousers', which contradicts the red sweater and blue jeans in the knowledge.",
+      "name": "Kurokami no Onna (Death Billiards)",
+      "type": "appearance",
+      "human": null
+    },
+    {
+      "id": 17,
+      "knowledge": "He gives the player a Mega Stone to enable Mega Evolution.",
+      "evaluation": "contradicted",
+      "evidence": "The text mentions he gives the player the Devon Scope and TM for Steel Wing, but does not state he gives a Mega Stone. In fact, Sawyer receives a Key Stone from Steven, but no such gift is mentioned for the player in the games.",
+      "name": "Steven Stone (Pokemon)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 24,
+      "knowledge": "She was summoned by Kinzo Ushiromiya, bound to Rokkenjima, and imprisoned by him after he refused to release her despite their contract.",
+      "evaluation": "contradicted",
+      "evidence": "The text states the original Beatrice (Castiglioni) was Kinzo's lover; Sayo, the true Beatrice, was his daughter and granddaughter, not summoned or bound by contract. The imprisonment narrative applies to Beatrice Ushiromiya, not this Beatrice.",
+      "name": "Beatrice (Umineko: When They Cry)",
+      "type": "experience",
+      "human": null
+    },
+    {
+      "id": 8,
+      "knowledge": "She lost her right forearm during the Final War and now uses advanced prosthetic limbs equipped with weaponry, including a multi-barrel gun and cannons.",
+      "evaluation": "contradicted",
+      "evidence": "The text states she lost her left forearm during the Jaku raid and her remaining limbs (including right arm) during the Final War, but specifies she used prosthetics after the first injury; however, it does not state the right forearm was lost specifically, and no mention of multi-barrel gun or cannons in this context.",
+      "name": "Rumi Usagiyama (My Hero Academia: Vigilantes)",
+      "type": "appearance",
+      "human": null
+    }
+  ]
+}
