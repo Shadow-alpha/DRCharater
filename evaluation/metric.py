@@ -9,6 +9,7 @@ label_map = {'supportive': 'supported', 'unsupported': 'contradicted', 'partial 
 def arg_parse():
     parser = argparse.ArgumentParser(description="这是一个示例程序")
     parser.add_argument('--results_path', type=str, required=True, help='结果路径')
+    parser.add_argument('--konwledges_path', type=str, required=True, help='结果路径')
     # parser.add_argument('--age', type=int, default=18, help='年龄，默认为18')
     args = parser.parse_args()
     return args
@@ -77,7 +78,7 @@ def is_valid(knowledge):
 
 if __name__ == "__main__":
     args = arg_parse()
-    knowledges_path = "./knowledges/qwen3-235B_fandom_knowledges_retyped.json"
+    knowledges_path = args.konwledges_path
     results_path = args.results_path
     results = load_file(results_path)
     knowledges = load_file(knowledges_path)
@@ -85,4 +86,6 @@ if __name__ == "__main__":
     
     print("knowledges: ", len([1 for v in knowledges.values() if is_valid(v)]))
     print("results: ", len(results))
+    
+    print(evaluate_total(knowledges, results))
     print(evaluate_type(knowledges, results))
